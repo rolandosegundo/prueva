@@ -1,860 +1,2689 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="===== VIP DEPORTES ======" tvg-logo="" group-title="",===== VIP DEPORTES ======
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Europa Pista Plovdiv 2020" tvg-logo="blob:https://web.telegram.org/8d00902a-27c4-4e71-a302-6bf6facf3957" group-title="PPV CICLISMO",Campeonato Europa Pista Plovdiv 2020
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61662
-#EXTINF:-1 tvg-id="cdf.cl" tvg-name="CDF BASICO (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF BASICO (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16704
-#EXTINF:-1 tvg-id="cdf.cl" tvg-name="CDF BASICO ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF BASICO ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/14789
-#EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="CDF HD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF HD 1080
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/601
-#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES",CDO PREMIUM ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15601
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="ESPAÑA",ES: MOVISTAR DEPORTES 1
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3657
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DRAMA" tvg-logo="http://144.217.91.146/Logos/Spain/movistar-drama-es.png" group-title="ESPAÑA",ES: MOVISTAR DRAMA
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27459
-#EXTINF:-1 tvg-id="movistarestrenos.sp" tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Movistar_Estrenos.svg" group-title="ESPAÑA",ES: MOVISTAR ESTRENOS
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/43354
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LA LIGA TV BAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="ESPAÑA",ES: MOVISTAR LA LIGA TV BAR
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/45691
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN" tvg-logo="https://jmsearch.com/wp-content/uploads/2016/03/ESPN.png" group-title="DEPORTES",ESPN
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54125
-
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 1 (méxico)" tvg-logo="https://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES",ESPN 1 (méxico)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/32979
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR ⁽ᵃ⁾ chile" tvg-logo="https://www.gador.com.ar/wp-content/uploads/2017/04/espn-logo-red.png" group-title="DEPORTES",ESPN 1 SUR ⁽ᵃ⁾ chile
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58049
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (argentina)" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES",ESPN 2 (argentina)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58092
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 (argentina) ⁽ᵃ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (argentina) ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/53991
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 (colombia)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58064
-
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 2 (méxico)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (méxico)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27553
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (usa)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (usa)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57818
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE 1080" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES",ESPN 2 CHILE 1080
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57325
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE 720 ⁽ᴹ⁾" tvg-logo="https://logodix.com/logo/313657.png" group-title="DEPORTES",ESPN 2 CHILE 720 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16686
-
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE ⁽ˢᵈ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 CHILE ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61849
 
 
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 NORTE ⁽ˢᵈ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 NORTE ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54399
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 NORTE ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 NORTE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61490
+#EXTINF:-1,A&E *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/807
+#EXTINF:-1,A3 SERIES *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/808
+#EXTINF:-1,AMC *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/806
+#EXTINF:-1,ANTENA 3 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/805
+#EXTINF:-1,AXN *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/804
+#EXTINF:-1,CINECANAL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/802
+#EXTINF:-1,CINEMAX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/803
+#EXTINF:-1,CINEMAX ACTION *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/851
+#EXTINF:-1,CINEMAX WEST *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/849
+#EXTINF:-1,COMEDY CENTRAL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/799
+#EXTINF:-1,DEPELICULA *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/800
+#EXTINF:-1,DEPELICULA PLUS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/801
+#EXTINF:-1,DISTRITO COMEDIA *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/797
+#EXTINF:-1,DW *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/798
+#EXTINF:-1,FILM ARTS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/795
+#EXTINF:-1,STAR CHANNEL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/792
+#EXTINF:-1,FOX LIFE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/793
+#EXTINF:-1,STAR ACTION *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/784
+#EXTINF:-1,STAR CINEMA *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/785
+#EXTINF:-1,STAR CLASSICS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/790
+#EXTINF:-1,STAR COMEDY *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/791
+#EXTINF:-1,STAR FUN *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/789
+#EXTINF:-1,STAR HIT *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/794
+#EXTINF:-1,STAR SERIES *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/788
+#EXTINF:-1,FX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/781
+#EXTINF:-1,FXM *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/782
+#EXTINF:-1,GOLDEN *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/778
+#EXTINF:-1,GOLDEN EDGE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/779
+#EXTINF:-1,GOLDEN PLUS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/780
+#EXTINF:-1,GOLDEN PREMIER *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/787
+#EXTINF:-1,GOLDEN PREMIER 2 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40088
+#EXTINF:-1,HBO *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/814
+#EXTINF:-1,HBO + *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/812
+#EXTINF:-1,HBO 2 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/810
+#EXTINF:-1,HBO EAST *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/848
+#EXTINF:-1,HBO FAMILY *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/811
+#EXTINF:-1,HBO FAMILY WEST *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/847
+#EXTINF:-1,HBO MUNDI *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27529
+#EXTINF:-1,HBO POP *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/815
+#EXTINF:-1,HBO XTREME *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/809
+#EXTINF:-1,HBO SIGNATURE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/813
+#EXTINF:-1,HBO WEST *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/844
+#EXTINF:-1,HBO | SUBTITULADO *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/817
+#EXTINF:-1,INDIEPLEX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/843
+#EXTINF:-1,ISAT *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/777
+#EXTINF:-1,MOREMAX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/842
+#EXTINF:-1,MOVIEPLEX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/840
+#EXTINF:-1,MULTIMEDIOS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/775
+#EXTINF:-1,MULTIMEDIOS PLUS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/776
+#EXTINF:-1,OUTERMAX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/839
+#EXTINF:-1,PARAMOUNT CHANNEL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/774
+#EXTINF:-1,RETROPLEX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/838
+#EXTINF:-1,SHOWTIME BEYOND *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/837
+#EXTINF:-1,SHOWTIME EAST *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/836
+#EXTINF:-1,SHOWTIME WEST *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/834
+#EXTINF:-1,SONY *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/773
+#EXTINF:-1,SPACE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/767
+#EXTINF:-1,STARZ *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/820
+#EXTINF:-1,STARZ CINEMA *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/832
+#EXTINF:-1,STARZ COMEDY *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/831
+#EXTINF:-1,STARZ EAST *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/830
+#EXTINF:-1,STARZ EDGE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/829
+#EXTINF:-1,STARZ ENCORE ACTION *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/828
+#EXTINF:-1,STARZ ENCORE CLASSICS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/826
+#EXTINF:-1,STARZ ENCORE ENCORE SUSPENSO *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/823
+#EXTINF:-1,STARZ ENCORE FAMILY *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/825
+#EXTINF:-1,STARZ ENCORE WESTER *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/822
+#EXTINF:-1,STARZ FAMILY *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/821
+#EXTINF:-1,STARZ KIDS & FAMILY *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/819
+#EXTINF:-1,STARZ WEST *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/818
+#EXTINF:-1,STUDIO UNIVERSAL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/768
+#EXTINF:-1,SYFY *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/769
+#EXTINF:-1,TBS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/770
+#EXTINF:-1,TCM *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/771
+#EXTINF:-1,TNT *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/765
+#EXTINF:-1,TNT SERIES *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/766
+#EXTINF:-1,UNIVERSAL CHANNEL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/816
+#EXTINF:-1,WARNER CHANNEL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/764
+#EXTINF:-1,A&E *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/948
+#EXTINF:-1,A&E *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/880
+#EXTINF:-1,A3 SERIES *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/947
+#EXTINF:-1,A3 SERIES *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/957
+#EXTINF:-1,AMC *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/946
+#EXTINF:-1,AMC *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/918
+#EXTINF:-1,AXN *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/944
+#EXTINF:-1,AXN *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/917
+#EXTINF:-1,CINECANAL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/943
+#EXTINF:-1,CINECANAL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/916
+#EXTINF:-1,CINEMAX *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/942
+#EXTINF:-1,CINEMAX *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/915
+#EXTINF:-1,DEPELICULA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/941
+#EXTINF:-1,DEPELICULA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/878
+#EXTINF:-1,DEPELICULA PLUS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/940
+#EXTINF:-1,EUROPA EUROPA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/959
+#EXTINF:-1,EUROPA EUROPA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/914
+#EXTINF:-1,FILM ART *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/939
+#EXTINF:-1,FILM ART *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/913
+#EXTINF:-1,STAR CHANNEL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/938
+#EXTINF:-1,STAR CHANNEL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/874
+#EXTINF:-1,FOX LIFE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/956
+#EXTINF:-1,FOX LIFE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/871
+#EXTINF:-1,STAR ACTION *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/910
+#EXTINF:-1,STAR ACTION *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/937
+#EXTINF:-1,STAR ACTION *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/875
+#EXTINF:-1,STAR CINEMA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/936
+#EXTINF:-1,STAR CINEMA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/873
+#EXTINF:-1,STAR CLASSICS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/935
+#EXTINF:-1,STAR CLASSICS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/908
+#EXTINF:-1,STAR COMEDY *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/904
+#EXTINF:-1,STAR COMEDY *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/907
+#EXTINF:-1,STAR FUN *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/906
+#EXTINF:-1,STAR FUN *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/905
+#EXTINF:-1,STAR HIT *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/933
+#EXTINF:-1,STAR HIT *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/870
+#EXTINF:-1,STAR SERIES *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/932
+#EXTINF:-1,STAR SERIES *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/869
+#EXTINF:-1,FX *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/931
+#EXTINF:-1,FX *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/868
+#EXTINF:-1,FXM *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/930
+#EXTINF:-1,FXM *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/867
+#EXTINF:-1,GOLDEN *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/929
+#EXTINF:-1,GOLDEN *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/866
+#EXTINF:-1,GOLDEN EDGE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/928
+#EXTINF:-1,GOLDEN EDGE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/865
+#EXTINF:-1,GOLDEN PLUS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/927
+#EXTINF:-1,GOLDEN PLUS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/864
+#EXTINF:-1,GOLDEN PREMIER *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2386
+#EXTINF:-1,GOLDEN PREMIER *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2387
+#EXTINF:-1,GOLDEN PREMIER 2 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41590
+#EXTINF:-1,GOLDEN PREMIER 2 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41591
+#EXTINF:-1,HBO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2388
+#EXTINF:-1,HBO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/899
+#EXTINF:-1,HBO + *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2392
+#EXTINF:-1,HBO + *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/896
+#EXTINF:-1,HBO 2 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2391
+#EXTINF:-1,HBO 2 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/898
+#EXTINF:-1,HBO FAMILY *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2395
+#EXTINF:-1,HBO FAMILY *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/897
+#EXTINF:-1,HBO MUNDI *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27530
+#EXTINF:-1,HBO MUNDI *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27531
+#EXTINF:-1,HBO POP *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/954
+#EXTINF:-1,HBO POP *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/893
+#EXTINF:-1,HBO SIGNATURE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2604
+#EXTINF:-1,HBO SIGNATURE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/895
+#EXTINF:-1,HBO XTREME *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/955
+#EXTINF:-1,HBO XTREME *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/894
+#EXTINF:-1,HBO | SUBTITULADO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2389
+#EXTINF:-1,HBO | SUBTITULADO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2390
+#EXTINF:-1,ISAT *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/926
+#EXTINF:-1,ISAT *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/863
+#EXTINF:-1,PARAMOUNT CHANNEL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/925
+#EXTINF:-1,PARAMOUNT CHANNEL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/862
+#EXTINF:-1,SONY *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/923
+#EXTINF:-1,SONY *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/860
+#EXTINF:-1,SPACE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/922
+#EXTINF:-1,SPACE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/859
+#EXTINF:-1,STUDIO UNIVERSAL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/921
+#EXTINF:-1,STUDIO UNIVERSAL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/920
+#EXTINF:-1,SYFY *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/952
+#EXTINF:-1,SYFY *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/888
+#EXTINF:-1,TBS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/951
+#EXTINF:-1,TBS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/857
+#EXTINF:-1,TCM *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/950
+#EXTINF:-1,TCM *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/886
+#EXTINF:-1,TNT *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/885
+#EXTINF:-1,TNT *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/855
+#EXTINF:-1,TNT SERIES *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/854
+#EXTINF:-1,TNT SERIES *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/884
+#EXTINF:-1,UNIVERSAL CHANNEL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/883
+#EXTINF:-1,UNIVERSAL CHANNEL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/853
+#EXTINF:-1,WARNER CHANNEL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/949
+#EXTINF:-1,WARNER CHANNEL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/852
+#EXTINF:-1,A&E *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29521
+#EXTINF:-1,AMC *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29522
+#EXTINF:-1,ANIMAL PLANET *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29547
+#EXTINF:-1,AXN *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29523
+#EXTINF:-1,BOOMERANG *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29524
+#EXTINF:-1,CARTOON NETWORK *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29516
+#EXTINF:-1,CINECANAL *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29525
+#EXTINF:-1,COMEDY CENTRAL *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29526
+#EXTINF:-1,DISCOVERY CHANNEL *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29527
+#EXTINF:-1,DISCOVERY H&H *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29528
+#EXTINF:-1,DISCOVERY ID *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29546
+#EXTINF:-1,DISCOVERY KIDS *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29549
+#EXTINF:-1,DISCOVERY TURBO *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29545
+#EXTINF:-1,DISCOVERY WORLD *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29550
+#EXTINF:-1,DISNEY CHANNEL *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29529
+#EXTINF:-1,DISNEY JR *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29530
+#EXTINF:-1,DISNEY XD *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29531
+#EXTINF:-1,FILM ARTS *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29553
+#EXTINF:-1,STAR CHANNEL *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29519
+#EXTINF:-1,FOX LIFE *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29569
+#EXTINF:-1,STAR ACTION *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29534
+#EXTINF:-1,STAR CINEMA *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29535
+#EXTINF:-1,STAR COMEDY *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29536
+#EXTINF:-1,STAR FUN *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29537
+#EXTINF:-1,STAR HIT *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29538
+#EXTINF:-1,STAR SERIES *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29533
+#EXTINF:-1,FX *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29539
+#EXTINF:-1,FXM *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29532
+#EXTINF:-1,HBO *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29515
+#EXTINF:-1,HBO + *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29566
+#EXTINF:-1,HBO 2 *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29564
+#EXTINF:-1,HBO FAMILY *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29565
+#EXTINF:-1,HBO XTREME *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29557
+#EXTINF:-1,HISTORY *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29543
+#EXTINF:-1,NAT GEO *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29542
+#EXTINF:-1,NAT GEO WILD *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29541
+#EXTINF:-1,NICK *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29570
+#EXTINF:-1,PARAMOUNT *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29559
+#EXTINF:-1,SONY *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29520
+#EXTINF:-1,STUDIO UNIVERSAL *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29560
+#EXTINF:-1,TNT *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29571
+#EXTINF:-1,TNT SERIES *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29544
+#EXTINF:-1,TRUTV *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29518
+#EXTINF:-1,UNIVERSAL CHANNEL *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29563
+#EXTINF:-1,WARNER CHANNEL *HD | DUAL-AUDIO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29540
+#EXTINF:-1,A&E *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29582
+#EXTINF:-1,A3 SERIES *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29659
+#EXTINF:-1,AMC *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29583
+#EXTINF:-1,ANIMAL PLANET *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29616
+#EXTINF:-1,AXN *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29584
+#EXTINF:-1,BABY TV *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29585
+#EXTINF:-1,BOOMERANG *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29586
+#EXTINF:-1,CARTOON NETWORK *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29575
+#EXTINF:-1,CINECANAL *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29587
+#EXTINF:-1,CINEMAX *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29617
+#EXTINF:-1,CNN EN ESPAÑOL *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29619
+#EXTINF:-1,CNN INTERNACIONAL *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29620
+#EXTINF:-1,COMEDY CENTRAL *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29588
+#EXTINF:-1,DISCOVERY CHANNEL *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29589
+#EXTINF:-1,DISCOVERY CIVILIZATION *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29621
+#EXTINF:-1,DISCOVERY H&H *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29590
+#EXTINF:-1,DISCOVERY ID *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29615
+#EXTINF:-1,DISCOVERY KIDS *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29622
+#EXTINF:-1,DISCOVERY SCIENCE *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29623
+#EXTINF:-1,DISCOVERY THEATER *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29645
+#EXTINF:-1,DISCOVERY TURBO *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29614
+#EXTINF:-1,DISCOVERY WORLD *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29624
+#EXTINF:-1,DISNEY CHANNEL *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29591
+#EXTINF:-1,DISNEY JR *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29592
+#EXTINF:-1,DISNEY XD *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29593
+#EXTINF:-1,DW *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29625
+#EXTINF:-1,E! ENTERTAINMENT *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29626
+#EXTINF:-1,E$PN + *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29679
+#EXTINF:-1,E$PN MX *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29683
+#EXTINF:-1,E$PN 2 MX *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29684
+#EXTINF:-1,E$PN 2 SUR *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29596
+#EXTINF:-1,E$PN 3 MX *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29680
+#EXTINF:-1,EUROPA EUROPA *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29627
+#EXTINF:-1,FILM ARTS *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29628
+#EXTINF:-1,FOOD NETWORK *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29652
+#EXTINF:-1,STAR CHANNEL *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29580
+#EXTINF:-1,FOX LIFE *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29653
+#EXTINF:-1,FOX NEWS *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29630
+#EXTINF:-1,STAR ACTION *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29599
+#EXTINF:-1,STAR CINEMA *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29600
+#EXTINF:-1,STAR CLASSICS *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29601
+#EXTINF:-1,STAR COMEDY *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29602
+#EXTINF:-1,STAR FUN *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29603
+#EXTINF:-1,STAR HIT *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29604
+#EXTINF:-1,STAR SERIES *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29598
+#EXTINF:-1,FOX $PORTS 1 MX *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29681
+#EXTINF:-1,FOX $PORTS 2 AR *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29605
+#EXTINF:-1,FOX $PORTS 2 MX *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29682
+#EXTINF:-1,FOX $PORTS 3 AR *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29606
+#EXTINF:-1,FOX $PORTS PREMIUM *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29665
+#EXTINF:-1,FXM *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29597
+#EXTINF:-1,FX *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29607
+#EXTINF:-1,GOURMET *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29608
+#EXTINF:-1,H2 *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29631
+#EXTINF:-1,HBO *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29574
+#EXTINF:-1,HBO + *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29650
+#EXTINF:-1,HBO 2 *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29648
+#EXTINF:-1,HBO FAMILY *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29649
+#EXTINF:-1,HBO MUNDI *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29635
+#EXTINF:-1,HBO POP *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29661
+#EXTINF:-1,HBO SIGNATURE *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29651
+#EXTINF:-1,HBO XTREME *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29636
+#EXTINF:-1,HISTORY *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29612
+#EXTINF:-1,HOLA TV *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29660
+#EXTINF:-1,ISAT *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29633
+#EXTINF:-1,LIFETIME *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29629
+#EXTINF:-1,MAS CHIC *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29634
+#EXTINF:-1,MTV *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29637
+#EXTINF:-1,MTV HITS *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29656
+#EXTINF:-1,NAT GEO *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29611
+#EXTINF:-1,NAT GEO KIDS *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29663
+#EXTINF:-1,NAT GEO WILD *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29610
+#EXTINF:-1,NICK *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29667
+#EXTINF:-1,NICK JR *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29639
+#EXTINF:-1,PARAMOUNT *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29640
+#EXTINF:-1,SONY *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29581
+#EXTINF:-1,SPACE *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29573
+#EXTINF:-1,STUDIO UNIVERSAL *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29641
+#EXTINF:-1,SYFY *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29642
+#EXTINF:-1,TBS *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29643
+#EXTINF:-1,TCM *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29644
+#EXTINF:-1,TELEMUNDO *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29669
+#EXTINF:-1,TLC *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29657
+#EXTINF:-1,TNT *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29668
+#EXTINF:-1,TNT SERIES *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29613
+#EXTINF:-1,TNT SPORTS AR *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29664
+#EXTINF:-1,TOONCAST *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29646
+#EXTINF:-1,TRUTV *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29579
+#EXTINF:-1,UNIVERSAL CHANNEL *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29647
+#EXTINF:-1,VH1 *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29658
+#EXTINF:-1,VH1 MEGAHITS *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29655
+#EXTINF:-1,WARNER CHANNEL *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29609
+#EXTINF:-1,BABY FIRST *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27595
+#EXTINF:-1,BABY FIRST *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1069
+#EXTINF:-1,BABY TV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1055
+#EXTINF:-1,BABY TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1081
+#EXTINF:-1,BABY TV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1100
+#EXTINF:-1,BOOMERANG *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1054
+#EXTINF:-1,BOOMERANG *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1080
+#EXTINF:-1,BOOMERANG *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1068
+#EXTINF:-1,CARTOON NETWORK *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1053
+#EXTINF:-1,CARTOON NETWORK *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1079
+#EXTINF:-1,CARTOON NETWORK *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1096
+#EXTINF:-1,DISCOVERY KIDS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1052
+#EXTINF:-1,DISCOVERY KIDS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1083
+#EXTINF:-1,DISCOVERY KIDS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1066
+#EXTINF:-1,DISNEY CHANNEL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1051
+#EXTINF:-1,DISNEY CHANNEL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1078
+#EXTINF:-1,DISNEY CHANNEL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1065
+#EXTINF:-1,DISNEY JR *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1050
+#EXTINF:-1,DISNEY JR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1077
+#EXTINF:-1,DISNEY JR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1064
+#EXTINF:-1,DISNEY XD *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1049
+#EXTINF:-1,DISNEY XD *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1076
+#EXTINF:-1,DISNEY XD *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1099
+#EXTINF:-1,NAT GEO KIDS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1048
+#EXTINF:-1,NAT GEO KIDS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1075
+#EXTINF:-1,NAT GEO KIDS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1062
+#EXTINF:-1,NICK 2 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1047
+#EXTINF:-1,NICK 2 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1087
+#EXTINF:-1,NICK 2 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1060
+#EXTINF:-1,NICK JR *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1046
+#EXTINF:-1,NICK JR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1073
+#EXTINF:-1,NICK JR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1059
+#EXTINF:-1,NICKELODEON *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1044
+#EXTINF:-1,NICKELODEON *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1074
+#EXTINF:-1,NICKELODEON *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1094
+#EXTINF:-1,NICKTOONS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1043
+#EXTINF:-1,NICKTOONS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1058
+#EXTINF:-1,TOONCAST *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1041
+#EXTINF:-1,TOONCAST *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1072
+#EXTINF:-1,TOONCAST *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1056
 
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 SUR" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 SUR
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/14869
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 SUR ⁽ᴴᴰ⁾" tvg-logo="https://logodix.com/logo/313657.png" group-title="DEPORTES",ESPN 2 SUR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/609
-#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="LATINOS SD",ESPN 3
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55414
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 (méxico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 (méxico)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15766
-#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3 SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 SUR
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/608
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES",ESPN 3 SUR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/26135
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54124
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://f0.pngfuel.com/png/706/926/eurosport-2-logo-television-eurosport-1-eurosport-hd-png-clip-art.png" group-title="DEPORTES",EUROSPORT 1
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/25039
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eurosport_2.svg/640px-Eurosport_2.svg.png" group-title="DEPORTES",EUROSPORT 2 ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57584
-#EXTINF:-1 tvg-id="" tvg-name="FOX SOCCER PLUS" tvg-logo="https://www.verizon.com/content/dam/verizon/personal/learn-images/MLP/ec/sports/foxsoc/img-fsp-logo-sm.png" group-title="DEPORTES",FOX SOCCER PLUS
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/43357
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS (argentina) ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS (argentina) ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58065
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX SPORTS (méxico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS (méxico)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/32993
-#EXTINF:-1 tvg-id="foxsports.la" tvg-name="FOX SPORTS 1 CHILE (ʙ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 1 CHILE (ʙ)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55004
+#EXTINF:-1,ANIMAL PLANET *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1005
+#EXTINF:-1,ANIMAL PLANET *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1026
+#EXTINF:-1,ANIMAL PLANET *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/979
+#EXTINF:-1,DISCOVERY CHANNEL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1004
+#EXTINF:-1,DISCOVERY CHANNEL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1016
+#EXTINF:-1,DISCOVERY CHANNEL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/978
+#EXTINF:-1,DISCOVERY CIVILIZATION *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1003
+#EXTINF:-1,DISCOVERY CIVILIZATION *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1027
+#EXTINF:-1,DISCOVERY CIVILIZATION *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/977
+#EXTINF:-1,DISCOVERY H&H *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1002
+#EXTINF:-1,DISCOVERY H&H *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1032
+#EXTINF:-1,DISCOVERY H&H *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/976
+#EXTINF:-1,DISCOVERY ID *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1001
+#EXTINF:-1,DISCOVERY ID *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/966
+#EXTINF:-1,DISCOVERY ID *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/965
+#EXTINF:-1,DISCOVERY SCIENCE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1000
+#EXTINF:-1,DISCOVERY SCIENCE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1013
+#EXTINF:-1,DISCOVERY SCIENCE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/975
+#EXTINF:-1,DISCOVERY THEATER *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/999
+#EXTINF:-1,DISCOVERY THEATER *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1033
+#EXTINF:-1,DISCOVERY THEATER *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/974
+#EXTINF:-1,DISCOVERY TURBO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/998
+#EXTINF:-1,DISCOVERY TURBO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1029
+#EXTINF:-1,DISCOVERY TURBO *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/973
+#EXTINF:-1,DISCOVERY WORLD *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/997
+#EXTINF:-1,DISCOVERY WORLD *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1019
+#EXTINF:-1,DISCOVERY WORLD *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/972
+#EXTINF:-1,E! ENTERTAIMENT *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/996
+#EXTINF:-1,E! ENTERTAIMENT *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/987
+#EXTINF:-1,E! ENTERTAIMENT *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/971
+#EXTINF:-1,EL GOURMET *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1010
+#EXTINF:-1,EL GOURMET *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/986
+#EXTINF:-1,EL GOURMET *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/970
+#EXTINF:-1,FOOD NETWORK *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/994
+#EXTINF:-1,FOOD NETWORK *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1015
+#EXTINF:-1,FOOD NETWORK *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/969
+#EXTINF:-1,H2 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1009
+#EXTINF:-1,H2 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/985
+#EXTINF:-1,H2 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1036
+#EXTINF:-1,HGTV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40086
+#EXTINF:-1,HGTV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40085
+#EXTINF:-1,HGTV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40084
+#EXTINF:-1,HISTORY *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1008
+#EXTINF:-1,HISTORY *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/984
+#EXTINF:-1,HISTORY *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/968
+#EXTINF:-1,HOLA TV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/992
+#EXTINF:-1,HOLA TV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/967
+#EXTINF:-1,LIFETIME *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/983
+#EXTINF:-1,LIFETIME *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/964
+#EXTINF:-1,NAT GEO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1007
+#EXTINF:-1,NAT GEO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/982
+#EXTINF:-1,NAT GEO *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1037
+#EXTINF:-1,NAT GEO WILD *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1006
+#EXTINF:-1,NAT GEO WILD *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/981
+#EXTINF:-1,NAT GEO WILD *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1038
+#EXTINF:-1,TLC *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/989
+#EXTINF:-1,TLC *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1021
+#EXTINF:-1,TLC *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/961
+#EXTINF:-1,TRU TV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/988
+#EXTINF:-1,TRU TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/980
+#EXTINF:-1,TRU TV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/960
+#EXTINF:-1,LIFETIME *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28431
+#EXTINF:-1,MAS CHIC *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28432
+#EXTINF:-1,MAS CHIC *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28433
+#EXTINF:-1,PPV UFC
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23239
+#EXTINF:-1,UFC FIGHT PASS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5429
+#EXTINF:-1,EL CANAL DEL FUTBOL ECDF
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2350
+#EXTINF:-1,EL CANAL DEL FUTBOL ECDF | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40018
+#EXTINF:-1,EL CANAL DEL FUTBOL ECDF | op3
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40017
+#EXTINF:-1,ADRENALINA SPORTS NETWORK *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1848
+#EXTINF:-1,AYM SPORTS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2345
+#EXTINF:-1,BEIN SPORTS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23994
+#EXTINF:-1,BEIN SPORTS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1849
+#EXTINF:-1,BEIN SPORTS Ñ *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23993
+#EXTINF:-1,BEIN SPORTS Ñ *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1854
+#EXTINF:-1,BEIN SPORTS Ñ *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1853
+#EXTINF:-1,BEIN SPORTS Ñ *HD | op3
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1852
+#EXTINF:-1,BEIN SPORTS Ñ *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41773
+#EXTINF:-1,BEIN SPORTS LALIGA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23995
+#EXTINF:-1,BEIN SPORTS LALIGA *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40002
+#EXTINF:-1,BEIN SPORTS LALIGA *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1851
+#EXTINF:-1,TNT SPORTS HD CHILE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1843
+#EXTINF:-1,TNT SPORTS HD CHILE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1844
+#EXTINF:-1,TNT SPORTS HD CHILE *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1845
+#EXTINF:-1,TNT SPORTS HD CHILE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1846
+#EXTINF:-1,TNT SPORTS HD CHILE *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1847
+#EXTINF:-1,TNT SPORTS 2 CHILE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1842
+#EXTINF:-1,TNT SPORTS 2 CHILE *HD | Solo Eventos |
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41171
+#EXTINF:-1,TNT SPORTS 2 CHILE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41589
+#EXTINF:-1,TNT SPORTS 3 CHILE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1841
+#EXTINF:-1,TNT SPORTS 3 CHILE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41170
+#EXTINF:-1,ESTADIO TNT SPORTS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40737
+#EXTINF:-1,ESTADIO TNT SPORTS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40736
+#EXTINF:-1,CDO BASICO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1839
+#EXTINF:-1,CDO PREMIUM *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1840
+#EXTINF:-1,CLARO SPORTS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2351
+#EXTINF:-1,CLARO SPORTS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2352
+#EXTINF:-1,CLARO SPORTS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2353
+#EXTINF:-1,COMBATE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2330
+#EXTINF:-1,DIRECTV SPORTS 1 CL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/25834
+#EXTINF:-1,DIRECTV SPORTS 1 CL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/25833
+#EXTINF:-1,DIRECTV SPORTS 1 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1784
+#EXTINF:-1,DIRECTV SPORTS 1 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1786
+#EXTINF:-1,DIRECTV SPORTS 1 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1785
+#EXTINF:-1,DIRECTV SPORTS 1 PE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/6109
+#EXTINF:-1,DIRECTV SPORTS 1 EC *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2346
+#EXTINF:-1,DIRECTV SPORTS 1 EC *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2347
+#EXTINF:-1,DIRECTV SPORTS 1 EC *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2357
+#EXTINF:-1,DIRECTV SPORTS 2 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1789
+#EXTINF:-1,DIRECTV SPORTS 2 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1788
+#EXTINF:-1,DIRECTV SPORTS 2 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1787
+#EXTINF:-1,DIRECTV SPORTS 2 PE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40003
+#EXTINF:-1,DIRECTV SPORTS + *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5190
+#EXTINF:-1,DIRECTV SPORTS + *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5188
+#EXTINF:-1,DIRECTV SPORTS + *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5189
+#EXTINF:-1,DIRECTV SPORTS + *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5191
+#EXTINF:-1,DIRECTV SPORTS + PE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40004
+#EXTINF:-1,E$PN CL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40100
+#EXTINF:-1,E$PN CL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40099
+#EXTINF:-1,E$PN CL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22220
+#EXTINF:-1,E$PN PE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40005
+#EXTINF:-1,E$PN BR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2334
+#EXTINF:-1,E$PN SUR *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29594
+#EXTINF:-1,E$PN SUR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30425
+#EXTINF:-1,E$PN SUR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1858
+#EXTINF:-1,E$PN SUR *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1861
+#EXTINF:-1,E$PN MX *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1797
+#EXTINF:-1,E$PN MX *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1799
+#EXTINF:-1,E$PN MX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30428
+#EXTINF:-1,E$PN UR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41601
+#EXTINF:-1,E$PN UR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41595
+#EXTINF:-1,E$PN 2 CL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30295
+#EXTINF:-1,E$PN 2 CL *HQ op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28212
+#EXTINF:-1,E$PN 2 CL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30294
+#EXTINF:-1,E$PN 2 CL *HD op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22221
+#EXTINF:-1,E$PN 2 CL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41173
+#EXTINF:-1,E$PN 2 PE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40006
+#EXTINF:-1,E$PN 2 BR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2331
+#EXTINF:-1,E$PN 2 MX *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1796
+#EXTINF:-1,E$PN 2 MX *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1801
+#EXTINF:-1,E$PN 2 MX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1793
+#EXTINF:-1,E$PN 2 SUR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1856
+#EXTINF:-1,E$PN 2 SUR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1859
+#EXTINF:-1,E$PN 2 SUR *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1862
+#EXTINF:-1,E$PN 2 NORTE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30426
+#EXTINF:-1,E$PN 2 UR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41602
+#EXTINF:-1,E$PN 2 UR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41596
+#EXTINF:-1,E$PN 3 PE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40007
+#EXTINF:-1,E$PN 3 MX *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1795
+#EXTINF:-1,E$PN 3 MX *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1800
+#EXTINF:-1,E$PN 3 MX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1792
+#EXTINF:-1,E$PN 3 SUR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1857
+#EXTINF:-1,E$PN 3 SUR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1860
+#EXTINF:-1,E$PN 3 SUR *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1863
+#EXTINF:-1,E$PN 3 UR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41603
+#EXTINF:-1,E$PN 3 UR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41597
+#EXTINF:-1,E$PN + MX *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1794
+#EXTINF:-1,E$PN + MX *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1798
+#EXTINF:-1,E$PN + MX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1790
+#EXTINF:-1,E$PN EXTRA BR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2333
+#EXTINF:-1,FOX DEPORTES *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1838
+#EXTINF:-1,FOX $PORTS BR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2336
+#EXTINF:-1,FOX $PORTS CL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2356
+#EXTINF:-1,FOX $PORTS 1 CL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40149
+#EXTINF:-1,FOX $PORTS 1 CL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40151
+#EXTINF:-1,FOX $PORTS 1 CL *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30314
+#EXTINF:-1,FOX $PORTS 1 CL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40152
+#EXTINF:-1,FOX $PORTS 1 CL *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2354
+#EXTINF:-1,FOX $PORTS 1 AR *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30427
+#EXTINF:-1,FOX $PORTS 1 AR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1777
+#EXTINF:-1,FOX $PORTS 1 AR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30424
+#EXTINF:-1,FOX $PORTS 1 AR *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1779
+#EXTINF:-1,FOX $PORTS 1 AR *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2071
+#EXTINF:-1,FOX $PORTS 1 CO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40686
+#EXTINF:-1,FOX $PORTS 1 CO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40689
+#EXTINF:-1,FOX $PORTS 1 CO *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40692
+#EXTINF:-1,FOX $PORTS 1 MX *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1771
+#EXTINF:-1,FOX $PORTS 1 MX *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1772
+#EXTINF:-1,FOX $PORTS 1 MX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1766
+#EXTINF:-1,FOX $PORTS 1 PE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41770
+#EXTINF:-1,FOX $PORTS 1 UR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41598
+#EXTINF:-1,FOX $PORTS 1 UR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41608
+#EXTINF:-1,FOX $PORTS 2 BR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2335
+#EXTINF:-1,FOX $PORTS 2 CL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40150
+#EXTINF:-1,FOX $PORTS 2 CL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40153
+#EXTINF:-1,FOX $PORTS 2 CL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40154
+#EXTINF:-1,FOX $PORTS 2 CO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40687
+#EXTINF:-1,FOX $PORTS 2 CO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40690
+#EXTINF:-1,FOX $PORTS 2 CO *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40693
+#EXTINF:-1,FOX $PORTS 2 MX *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1770
+#EXTINF:-1,FOX $PORTS 2 MX *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1774
+#EXTINF:-1,FOX $PORTS 2 MX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1768
+#EXTINF:-1,FOX $PORTS 2 AR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1776
+#EXTINF:-1,FOX $PORTS 2 AR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1782
+#EXTINF:-1,FOX $PORTS 2 AR *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1778
+#EXTINF:-1,FOX $PORTS 2 PE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41771
+#EXTINF:-1,FOX $PORTS 2 UR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41599
+#EXTINF:-1,FOX $PORTS 2 UR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41593
+#EXTINF:-1,FOX $PORTS 3 AR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1775
+#EXTINF:-1,FOX $PORTS 3 AR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1781
+#EXTINF:-1,FOX $PORTS 3 CO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40688
+#EXTINF:-1,FOX $PORTS 3 CO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40691
+#EXTINF:-1,FOX $PORTS 3 CO *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40694
+#EXTINF:-1,FOX $PORTS 3 MX *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1769
+#EXTINF:-1,FOX $PORTS 3 MX *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1773
+#EXTINF:-1,FOX $PORTS 3 MX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1767
+#EXTINF:-1,FOX $PORTS 3 PE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41772
+#EXTINF:-1,FOX $PORTS 3 UR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41600
+#EXTINF:-1,FOX $PORTS 3 UR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41594
+#EXTINF:-1,FOX $PORTS PREMIUM *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40910
+#EXTINF:-1,FOX $PORTS PREMIUM *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1780
+#EXTINF:-1,FOX $PORTS PREMIUM *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2359
+#EXTINF:-1,TD+ *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29818
+#EXTINF:-1,TD+ 2 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29817
+#EXTINF:-1,FUTV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23997
+#EXTINF:-1,FUTV *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/24260
+#EXTINF:-1,FUTV *HD | op3
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29266
+#EXTINF:-1,GOL PERU *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1835
+#EXTINF:-1,GOL PERU *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1837
+#EXTINF:-1,GOL PERU *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1836
+#EXTINF:-1,GOL PERU *FHD op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40011
+#EXTINF:-1,GOL TV INGLES *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/16452
+#EXTINF:-1,GOL TV ESPAÑOL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/16451
+#EXTINF:-1,GOL TV LATINOAMERICA *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2358
+#EXTINF:-1,GOL TV ECUADOR *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30246
+#EXTINF:-1,GOL TV ECUADOR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1832
+#EXTINF:-1,GOL TV ECUADOR *HQ | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40101
+#EXTINF:-1,GOL TV ECUADOR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1833
+#EXTINF:-1,GOL TV ECUADOR *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1834
+#EXTINF:-1,GOLF CHANNEL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1831
+#EXTINF:-1,LALIGA TV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1830
+#EXTINF:-1,MOVISTAR DEPORTES *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1827
+#EXTINF:-1,MOVISTAR DEPORTES *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1828
+#EXTINF:-1,MOVISTAR DEPORTES *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1829
+#EXTINF:-1,PREMIERE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2343
+#EXTINF:-1,PREMIERE 2 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2337
+#EXTINF:-1,PREMIERE 3 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2338
+#EXTINF:-1,PREMIERE 4 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2339
+#EXTINF:-1,PREMIERE 5 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2340
+#EXTINF:-1,PREMIERE 6 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2341
+#EXTINF:-1,PREMIERE 7 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2342
+#EXTINF:-1,RAI SPORTS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2349
+#EXTINF:-1,RAI SPORTS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2348
+#EXTINF:-1,SPORTV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2329
+#EXTINF:-1,SPORTV 2 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2327
+#EXTINF:-1,SPORTV 3 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2328
+#EXTINF:-1,SKY SPORTS LATINO *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30423
+#EXTINF:-1,TELEDEPORTE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1824
+#EXTINF:-1,TELETRACK *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1823
+#EXTINF:-1,TIGO SPORTS 1 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1820
+#EXTINF:-1,TIGO SPORTS 2 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1821
+#EXTINF:-1,TIGO SPORTS PARAGUAY
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1819
+#EXTINF:-1,TIGO SPORTS COSTA RICA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1817
+#EXTINF:-1,TIGO SPORTS COSTA RICA *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1818
+#EXTINF:-1,TIGO SPORTS HONDURAS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41345
+#EXTINF:-1,TIGO SPORTS EL SALVADOR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41346
+#EXTINF:-1,TNT SPORTS AR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1815
+#EXTINF:-1,TNT SPORTS AR *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1816
+#EXTINF:-1,TUDN MEX
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22258
+#EXTINF:-1,TUDN *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1808
+#EXTINF:-1,TUDN *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1809
+#EXTINF:-1,TVC DEPORTES *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1813
+#EXTINF:-1,TVC DEPORTES *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1814
+#EXTINF:-1,TyC SPORTS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17274
+#EXTINF:-1,TyC SPORTS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1811
+#EXTINF:-1,TyC SPORTS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1812
+#EXTINF:-1,TyC SPORTS INTERNACIONAL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1810
+#EXTINF:-1,TyC SPORTS INTERNACIONAL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1864
+#EXTINF:-1,VTV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1805
+#EXTINF:-1,VTV *HQ | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17334
+#EXTINF:-1,VTV *HQ | op3
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41606
+#EXTINF:-1,VTV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1806
+#EXTINF:-1,VTV *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41607
+#EXTINF:-1,VTV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1807
+#EXTINF:-1,VTV + *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17333
+#EXTINF:-1,VTV + *HQ | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41609
+#EXTINF:-1,VTV + *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/16453
+#EXTINF:-1,VTV + *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/16454
+#EXTINF:-1,VTV + *HD | op3
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41610
+#EXTINF:-1,WINSPORTS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1802
+#EXTINF:-1,WINSPORTS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1803
+#EXTINF:-1,WINSPORTS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1804
+#EXTINF:-1,WINSPORTS PLUS *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30293
+#EXTINF:-1,WINSPORTS PLUS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/21863
+#EXTINF:-1,WINSPORTS PLUS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/21862
+#EXTINF:-1,WINSPORTS PLUS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/21861
+#EXTINF:-1,WINSPORTS PLUS *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22149
 
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2 ⁽ᴴᴰ⁾ (méxico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 ⁽ᴴᴰ⁾ (méxico)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/613
+#EXTINF:-1,SP | DAZN 1
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2370
+#EXTINF:-1,SP | DAZN 1 DE
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2360
+#EXTINF:-1,SP | DAZN 2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2368
+#EXTINF:-1,SP | DAZN 2 DE
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2361
+#EXTINF:-1,SP | DAZN 3
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2369
+#EXTINF:-1,SP | E$PN
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2378
+#EXTINF:-1,SP | E$PN 2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2379
+#EXTINF:-1,SP | E$PN DEPORTES
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2380
+#EXTINF:-1,SP | E$PN DEPORTES op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23240
+#EXTINF:-1,SP | E$PN DEPORTES op3
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41362
+#EXTINF:-1,SP | E$PN NEWS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30194
+#EXTINF:-1,SP | E$PN op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22449
+#EXTINF:-1,SP | E$PN U
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2377
+#EXTINF:-1,SP | ELEVEN SPORTS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2048
+#EXTINF:-1,SP | ELEVEN SPORTS NETWORK
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2376
+#EXTINF:-1,SP | EUROSPORT *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2001
+#EXTINF:-1,SP | EUROSPORT 1
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2362
+#EXTINF:-1,SP | EUROSPORT 1
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2363
+#EXTINF:-1,SP | EUROSPORT 1
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2365
+#EXTINF:-1,SP | EUROSPORT 1 HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2366
+#EXTINF:-1,SP | EUROSPORT 2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2364
+#EXTINF:-1,SP | EUROSPORT 2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2367
+#EXTINF:-1,SP | F WORLD FISHING NETWORK
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2033
+#EXTINF:-1,SP | FIGHT NETWORK
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2035
+#EXTINF:-1,SP | FOX $PORTS ATLANTA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2007
+#EXTINF:-1,SP | FOX $PORTS CAROLINAS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2022
+#EXTINF:-1,SP | FOX $PORTS DETROIT
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22103
+#EXTINF:-1,SP | FOX $PORTS FLORIDA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22105
+#EXTINF:-1,SP | FOX $PORTS SUN
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22101
+#EXTINF:-1,SP | FOX $PORTS TAMPA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22114
+#EXTINF:-1,SP | FOX $PORTS TNNESS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22102
+#EXTINF:-1,SP | FOX $PORTS WEST
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22115
+#EXTINF:-1,SP | FOX ATLANTA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2011
+#EXTINF:-1,SP | FOX DEPORTES
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2068
+#EXTINF:-1,SP | FOX SOCCER PLUS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2050
+#EXTINF:-1,SP | FS1
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2061
+#EXTINF:-1,SP | FS2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2060
+#EXTINF:-1,SP | GINX ESPORTS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22126
+#EXTINF:-1,SP | GOLF
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2066
+#EXTINF:-1,SP | IZZI AFIZZIONADOS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30221
+#EXTINF:-1,SP | JUVENTUS TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30210
+#EXTINF:-1,SP | LALIGA TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1999
+#EXTINF:-1,SP | LAZIO STYLE
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30211
+#EXTINF:-1,SP | LIGA CAMPEONES
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2000
+#EXTINF:-1,SP | MAVTV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2036
+#EXTINF:-1,SP | MILAN TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30207
+#EXTINF:-1,SP | MLB NETWORK
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/25083
+#EXTINF:-1,SP | MOTO GP
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1996
+#EXTINF:-1,SP | MOVISTAR DEPORTE
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1998
+#EXTINF:-1,SP | MOVISTAR DEPORTE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1994
+#EXTINF:-1,SP | MOVISTAR DEPORTE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1993
+#EXTINF:-1,SP | MOVISTAR F1 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1992
+#EXTINF:-1,SP | MOVISTAR F1 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1991
+#EXTINF:-1,SP | MOVISTAR GOLF
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1997
+#EXTINF:-1,SP | MOVISTAR GOLF *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1988
+#EXTINF:-1,SP | MOVISTAR LALIGA *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29080
+#EXTINF:-1,SP | MOVISTAR LALIGA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29079
+#EXTINF:-1,SP | MOVISTAR LALIGA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29081
+#EXTINF:-1,SP | MOVISTAR LALIGA 1 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29082
+#EXTINF:-1,SP | MOVISTAR TOROS TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1995
 
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 (méxico) ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 (méxico) ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/18218
+#EXTINF:-1,AR | AMERICA 24 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/512
+#EXTINF:-1,AR | AMERICA 24 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/511
+#EXTINF:-1,AR | AMERICA 24 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28420
+#EXTINF:-1,AR | AMERICA TV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/510
+#EXTINF:-1,AR | AMERICA TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28415
+#EXTINF:-1,AR | AMERICA TV *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/513
+#EXTINF:-1,AR | AMERICA TV *HD | op3
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/509
+#EXTINF:-1,AR | AMERICA TV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28414
+#EXTINF:-1,AR | ARGENTINISIMA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28425
+#EXTINF:-1,AR | C5N *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/508
+#EXTINF:-1,AR | C5N *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/507
+#EXTINF:-1,AR | CANAL 21 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/515
+#EXTINF:-1,AR | CANAL 26 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28978
+#EXTINF:-1,AR | CANAL 26 NOTICIAS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/505
+#EXTINF:-1,AR | CANAL 26 NOTICIAS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/506
+#EXTINF:-1,AR | CANAL 9
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30178
+#EXTINF:-1,AR | CANAL DE LA CIUDAD *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/518
+#EXTINF:-1,AR | CANAL DE LA MUSICA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/519
+#EXTINF:-1,AR | CANAL RURAL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28429
+#EXTINF:-1,AR | CINE AR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/504
+#EXTINF:-1,AR | CINE AR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/503
+#EXTINF:-1,AR | CIUDAD MAGAZINE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/520
+#EXTINF:-1,AR | CN23 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/501
+#EXTINF:-1,AR | CRONICA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/524
+#EXTINF:-1,AR | CRONICA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/499
+#EXTINF:-1,AR | CRONICA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28421
+#EXTINF:-1,AR | DEPORTV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/525
+#EXTINF:-1,AR | EL NUEVE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/497
+#EXTINF:-1,AR | EL NUEVE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/517
+#EXTINF:-1,AR | EL NUEVE *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/496
+#EXTINF:-1,AR | EL NUEVE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28418
+#EXTINF:-1,AR | EL TRECE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/494
+#EXTINF:-1,AR | EL TRECE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/514
+#EXTINF:-1,AR | EL TRECE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28951
+#EXTINF:-1,AR | ENCUENTRO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/526
+#EXTINF:-1,AR | ENCUENTRO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/491
+#EXTINF:-1,AR | GARAGE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28430
+#EXTINF:-1,AR | GARAGE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/527
+#EXTINF:-1,AR | GLITZ *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/528
+#EXTINF:-1,AR | LN *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28442
+#EXTINF:-1,AR | LN *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/529
+#EXTINF:-1,AR | LN MAS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/490
+#EXTINF:-1,AR | LN+ *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28975
+#EXTINF:-1,AR | METRO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/530
+#EXTINF:-1,AR | MUCH MUSIC *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/531
+#EXTINF:-1,AR | PAKA PAKA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/533
+#EXTINF:-1,AR | PAKA PAKA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/488
+#EXTINF:-1,AR | QMUSICA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28980
+#EXTINF:-1,AR | QUIERO MUSICA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/535
+#EXTINF:-1,AR | RURAL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/536
+#EXTINF:-1,AR | TELEFE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/485
+#EXTINF:-1,AR | TELEFE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/486
+#EXTINF:-1,AR | TELEFE *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/484
+#EXTINF:-1,AR | TELEFE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28416
+#EXTINF:-1,AR | TELEMAX *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/538
+#EXTINF:-1,AR | TELESUR *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/539
+#EXTINF:-1,AR | TN *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/541
+#EXTINF:-1,AR | TN *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28417
+#EXTINF:-1,AR | TV PUBLICA *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/482
+#EXTINF:-1,AR | TV PUBLICA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/542
+#EXTINF:-1,AR | TV PUBLICA *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/481
+#EXTINF:-1,AR | TV PUBLICA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28419
+#EXTINF:-1,AR | TV5 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/543
+#EXTINF:-1,AR | TVE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/544
+#EXTINF:-1,AR | VOLVER *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/545
+#EXTINF:-1,BO | ATB
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2
+#EXTINF:-1,BO | BOLIVIA TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/4
+#EXTINF:-1,BO | BOLIVISION *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5
+#EXTINF:-1,BO | BOLIVISION *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/6
+#EXTINF:-1,BO | REC ONLINE
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/19
+#EXTINF:-1,BO | RED PAT LA PAZ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/16
+#EXTINF:-1,BO | RTP
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/13
+#EXTINF:-1,BO | RTP *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/14
+#EXTINF:-1,BO | TV LATINA CANAL 42
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/18
+#EXTINF:-1,BO | TV U
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/20
+#EXTINF:-1,BO | UNITEL
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/21
+#EXTINF:-1,BO | UNITEL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22
+#EXTINF:-1,BO | XTO TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23
 
-#EXTINF:-1 tvg-id="foxsports.las" tvg-name="FOX SPORTS PREMIUM ⁽ᴴᴰ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190602030108&path-prefix=es" group-title="DEPORTES",FOX SPORTS PREMIUM ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54122
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM ⁽ᴹ⁾" tvg-logo="V" group-title="DEPORTES",FOX SPORTS PREMIUM ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61489
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="LALIGA TV" tvg-logo="https://lh3.googleusercontent.com/proxy/NggWEvCDqCK2wywmQhXCDEmuAVTxEmZ3Ar4ThNVhluYdWBIJqlFqBzonbfRXNTlMG_a3Z96ASt0as7Xcg9RZDAIWvyHdx00Uf9xT7ASqzloHMbCkqnag" group-title="DEPORTES",LALIGA TV
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/46186
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61485
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="DEPORTES",NBA TV
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1165
-#EXTINF:-1 tvg-id="" tvg-name="RED BULL" tvg-logo="https://www.logopik.com/wp-content/uploads/edd/2018/10/Sport-Vector-Logo-Dewonload-free-226x226.png" group-title="DEPORTES",RED BULL
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/10909
-#EXTINF:-1 tvg-id="cdf.cl" tvg-name="CDF BASICO (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF BASICO (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16704
-#EXTINF:-1 tvg-id="cdf.cl" tvg-name="CDF BASICO ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF BASICO ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/14789
-#EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="CDF HD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="DEPORTES",CDF HD 1080
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/601
-#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="DEPORTES",CDO PREMIUM ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15601
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="ESPAÑA",ES: MOVISTAR DEPORTES 1
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/3657
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN" tvg-logo="https://jmsearch.com/wp-content/uploads/2016/03/ESPN.png" group-title="DEPORTES",ESPN
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54125
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 1 (méxico)" tvg-logo="https://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES",ESPN 1 (méxico)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/32979
+#EXTINF:-1,CL | ADN *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29054
+#EXTINF:-1,CL | 24 HORAS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1763
+#EXTINF:-1,CL | 24 HORAS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1740
+#EXTINF:-1,CL | 24 HORAS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27509
+#EXTINF:-1,CL | AHORA NOTICIAS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1977
+#EXTINF:-1,CL | AHORA NOTICIAS *HD | Directo
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1975
+#EXTINF:-1,CL | CNN Chile *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27508
+#EXTINF:-1,CL | CNN Chile *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1979
+#EXTINF:-1,CL | CNN Chile *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27507
+#EXTINF:-1,CL | CANAL 13 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1741
+#EXTINF:-1,CL | CANAL 13 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1742
+#EXTINF:-1,CL | CANAL 13 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1743
+#EXTINF:-1,CL | CANAL 13 *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23814
+#EXTINF:-1,CL | CANAL 13 *FHD | Directo
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1974
+#EXTINF:-1,CL | CANAL 13 CABLE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1738
+#EXTINF:-1,CL | CANAL 13 INTERNACIONACIONAL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1739
+#EXTINF:-1,CL | CHV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1746
+#EXTINF:-1,CL | CHV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1745
+#EXTINF:-1,CL | CHV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1744
+#EXTINF:-1,CL | CHV *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40148
+#EXTINF:-1,CL | CHV *FHD | Directo
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1973
+#EXTINF:-1,CL | LA RED *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1748
+#EXTINF:-1,CL | LA RED *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1749
+#EXTINF:-1,CL | LA RED *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1750
+#EXTINF:-1,CL | LA RED *FHD | Directo
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1971
+#EXTINF:-1,CL | MEGA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1751
+#EXTINF:-1,CL | MEGA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1752
+#EXTINF:-1,CL | MEGA *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1754
+#EXTINF:-1,CL | MEGA *HD | Op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1753
+#EXTINF:-1,CL | MEGA PLUS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2394
+#EXTINF:-1,CL | TVN *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1757
+#EXTINF:-1,CL | TVN *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1758
+#EXTINF:-1,CL | TVN *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1759
+#EXTINF:-1,CL | TVN *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2393
+#EXTINF:-1,CL | TVN *FHD | Directo
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1967
+#EXTINF:-1,CL | TV CHILE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28439
+#EXTINF:-1,CL | TV CHILE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29053
+#EXTINF:-1,CL | TV CHILE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1761
+#EXTINF:-1,CL | TV CHILE *HD | Directo
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1969
+#EXTINF:-1,CL | TV EDUCA CHILE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27540
+#EXTINF:-1,CL | CAROLINA TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1978
+#EXTINF:-1,CL | ETC TV *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1747
+#EXTINF:-1,CL | ETC TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1765
+#EXTINF:-1,CL | REC TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1756
+#EXTINF:-1,CL | TV+ *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17285
+#EXTINF:-1,CL | TV+ *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1982
+#EXTINF:-1,CL | TV+ *FHD | Directo
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1968
+#EXTINF:-1,CL | VIAX *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1980
+#EXTINF:-1,CL | ZONA LATINA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1981
+#EXTINF:-1,CO | CABLE NOTICIAS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1104
+#EXTINF:-1,CO | CANAL CAPITAL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1105
+#EXTINF:-1,CO | CANAL INSTITUCIONAL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1106
+#EXTINF:-1,CO | CANAL TRECE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1131
+#EXTINF:-1,CO | CANAL UNO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1108
+#EXTINF:-1,CO | CANTINAZO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1109
+#EXTINF:-1,CO | CARACOL *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30290
+#EXTINF:-1,CO | CARACOL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1110
+#EXTINF:-1,CO | CARACOL *HQ op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30292
+#EXTINF:-1,CO | CARACOL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1111
+#EXTINF:-1,CO | CARACOL *HD op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30291
+#EXTINF:-1,CO | CARACOL *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1112
+#EXTINF:-1,CO | CARACOL 2 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1113
+#EXTINF:-1,CO | CARACOL INTERNACIONAL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22256
+#EXTINF:-1,CO | CITY TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1115
+#EXTINF:-1,CO | EL TIEMPO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1117
+#EXTINF:-1,CO | LA KALLE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1118
+#EXTINF:-1,CO | NTN24 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1119
+#EXTINF:-1,CO | RCN *LQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30267
+#EXTINF:-1,CO | RCN *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1120
+#EXTINF:-1,CO | RCN *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1121
+#EXTINF:-1,CO | RCN *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1122
+#EXTINF:-1,CO | RCN 2 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1123
+#EXTINF:-1,CO | RCN NOVELAS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/24478
+#EXTINF:-1,CO | RCN INTERNACIONAL *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40087
+#EXTINF:-1,CO | SENAL COLOMBIA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1124
+#EXTINF:-1,CO | TELEANTOQUIA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1126
+#EXTINF:-1,CO | TELECAFE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1127
+#EXTINF:-1,CO | TELECARIBE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1128
+#EXTINF:-1,CO | TELEMEDELLIN *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1129
+#EXTINF:-1,CO | TELEPACIFICO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1130
+#EXTINF:-1,CO | TVGRO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1132
+#EXTINF:-1,CR | 88 STEREO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2412
+#EXTINF:-1,CR | ANEXION TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28547
+#EXTINF:-1,CR | Best Video Channel
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40019
+#EXTINF:-1,CR | CANAL 14 TV SUR
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/561
+#EXTINF:-1,CR | CANAL 14 Tv Sur *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2397
+#EXTINF:-1,CR | CANAL 15 UCR *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2398
+#EXTINF:-1,CR | CANAL 33 XPERTV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22310
+#EXTINF:-1,CR | COLOSAL TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28550
+#EXTINF:-1,CR | EXTRA TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22311
+#EXTINF:-1,CR | EXTREMA TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28548
+#EXTINF:-1,CR | MULTIMEDIOS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/564
+#EXTINF:-1,CR | REPRETEL 11 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/573
+#EXTINF:-1,CR | REPRETEL 11 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2400
+#EXTINF:-1,CR | REPRETEL 11 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/565
+#EXTINF:-1,CR | REPRETEL 4 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2406
+#EXTINF:-1,CR | REPRETEL 4 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2405
+#EXTINF:-1,CR | REPRETEL 6 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/568
+#EXTINF:-1,CR | REPRETEL 6 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2401
+#EXTINF:-1,CR | REPRETEL 6 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/567
+#EXTINF:-1,CR | Sarapiqui TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30136
+#EXTINF:-1,CR | TELERED *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28392
+#EXTINF:-1,CR | TELESISTEMA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28393
+#EXTINF:-1,CR | TELESUR
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28549
+#EXTINF:-1,CR | TELETICA 7 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/571
+#EXTINF:-1,CR | TELETICA 7 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2402
+#EXTINF:-1,CR | TELETICA 7 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/570
+#EXTINF:-1,CR | TELEUNO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/572
+#EXTINF:-1,CR | TELEUNO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2411
+#EXTINF:-1,CR | TICAVISION CANAL 52
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2413
+#EXTINF:-1,CR | VM LATINO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22312
+#EXTINF:-1,EC | CANAL UNO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17286
+#EXTINF:-1,EC | CANAL UNO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/145
+#EXTINF:-1,EC | CANAL UNO *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/146
+#EXTINF:-1,EC | CANELA TV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17287
+#EXTINF:-1,EC | ECUADOR TV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17288
+#EXTINF:-1,EC | ECUADOR TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/148
+#EXTINF:-1,EC | ECUADOR TV INTERNACIONAL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/149
+#EXTINF:-1,EC | ECUAVISA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17289
+#EXTINF:-1,EC | ECUAVISA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/151
+#EXTINF:-1,EC | ECUAVISA *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/150
+#EXTINF:-1,EC | ECUAVISA INTERNACIONAL *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/152
+#EXTINF:-1,EC | GAMAVISION *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17290
+#EXTINF:-1,EC | GAMAVISION *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/153
+#EXTINF:-1,EC | GAMAVISION *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5929
+#EXTINF:-1,EC | OROMAR TV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17291
+#EXTINF:-1,EC | OROMAR TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/154
+#EXTINF:-1,EC | RTS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17292
+#EXTINF:-1,EC | RTS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/155
+#EXTINF:-1,EC | RTS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/156
+#EXTINF:-1,EC | RTU *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17293
+#EXTINF:-1,EC | TC TELEVISION *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17294
+#EXTINF:-1,EC | TC TELEVISION *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/157
+#EXTINF:-1,EC | TC TELEVISION *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/158
+#EXTINF:-1,EC | TELEAMAZONAS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/160
+#EXTINF:-1,EC | TELEAMAZONAS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17295
+#EXTINF:-1,EC | TELEAMAZONAS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/159
+#EXTINF:-1,EC | TELEVICENTRO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17296
+#EXTINF:-1,EC | TELEVICENTRO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/161
+#EXTINF:-1,SAL | CANAL 12
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2565
+#EXTINF:-1,SAL | CANAL 2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2562
+#EXTINF:-1,SAL | CANAL 4
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2563
+#EXTINF:-1,SAL | CANAL 4 op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41592
+#EXTINF:-1,SAL | CANAL 6
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2564
+#EXTINF:-1,SAL | MEGAVISION CANAL 19
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2566
+#EXTINF:-1,SAL | MEGAVISION CANAL 21
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2567
+#EXTINF:-1,SAL | TCS PLUS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2571
+#EXTINF:-1,SAL | TUTV CANAL 11
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2570
+#EXTINF:-1,SAL | TVES CANAL 10
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2569
+#EXTINF:-1,SAL | WOW TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2572
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR ⁽ᵃ⁾ chile" tvg-logo="https://www.gador.com.ar/wp-content/uploads/2017/04/espn-logo-red.png" group-title="DEPORTES",ESPN 1 SUR ⁽ᵃ⁾ chile
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58049
+#EXTINF:-1,GUA | VEA CANAL
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2597
+#EXTINF:-1,GUA | CANAL 11
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2598
+#EXTINF:-1,GUA | TN23
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2599
+#EXTINF:-1,GUA | CANAL 3
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2600
+#EXTINF:-1,GUA | CANAL 7
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2601
+#EXTINF:-1,GUA | CANAL ANTIGUA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2602
+#EXTINF:-1,GUA | GUATEVISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2603
+#EXTINF:-1,HN | AZTECA HONDURAS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2464
+#EXTINF:-1,HN | CANAL 11 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2463
+#EXTINF:-1,HN | CANAL 45 TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2460
+#EXTINF:-1,HN | CANAL 5
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22227
+#EXTINF:-1,HN | CANAL 6
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2458
+#EXTINF:-1,HN | CHTV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22244
+#EXTINF:-1,HN | EBENEZER
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2456
+#EXTINF:-1,HN | HCH
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2454
+#EXTINF:-1,HN | LTV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22252
+#EXTINF:-1,HN | MEGATV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2450
+#EXTINF:-1,HN | Q HUBO TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22253
+#EXTINF:-1,HN | SITV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22238
+#EXTINF:-1,HN | TELECADENA 7 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2448
+#EXTINF:-1,HN | TELECADENA 7 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2447
+#EXTINF:-1,HN | TELEPROGRESO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2445
+#EXTINF:-1,HN | TELESISTEMA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2444
+#EXTINF:-1,HN | TEN
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22254
+#EXTINF:-1,MX | A Plus
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/210
+#EXTINF:-1,MX | A3 Series HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/209
+#EXTINF:-1,MX | ADN40 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27554
+#EXTINF:-1,MX | ADN40 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/208
+#EXTINF:-1,MX | ADN40 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27555
+#EXTINF:-1,MX | Antena 3 HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/207
+#EXTINF:-1,MX | AYM Sports
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/206
+#EXTINF:-1,MX | AZ Cinema *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27570
+#EXTINF:-1,MX | AZ Cinema *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/205
+#EXTINF:-1,MX | AZ Cinema *HD op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27572
+#EXTINF:-1,MX | AZ Cinema *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27571
+#EXTINF:-1,MX | Az Click
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/204
+#EXTINF:-1,MX | AZ Click | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/203
+#EXTINF:-1,MX | AZ Corazon *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27556
+#EXTINF:-1,MX | AZ Corazon *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/202
+#EXTINF:-1,MX | AZ Corazon *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27557
+#EXTINF:-1,MX | AZ Mundo *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27560
+#EXTINF:-1,MX | AZ Mundo *HD op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27561
+#EXTINF:-1,MX | AZ Mundo *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27562
+#EXTINF:-1,MX | AZ Mundo HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/201
+#EXTINF:-1,MX | Azteca 1  *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/21074
+#EXTINF:-1,MX | Azteca 1 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/168
+#EXTINF:-1,MX | Azteca 1 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/21075
+#EXTINF:-1,MX | Azteca 7 *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/21076
+#EXTINF:-1,MX | Azteca 7 *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/200
+#EXTINF:-1,MX | Azteca 7 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/21077
+#EXTINF:-1,MX | Bandamax
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/198
+#EXTINF:-1,MX | Bitme *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27558
+#EXTINF:-1,MX | Bitme *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22255
+#EXTINF:-1,MX | Bitme *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27559
+#EXTINF:-1,MX | Bloomberg *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27566
+#EXTINF:-1,MX | Bloomberg *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/197
+#EXTINF:-1,MX | Bloomberg *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27567
+#EXTINF:-1,MX | Canal 2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/195
+#EXTINF:-1,MX | Canal 26 HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/194
+#EXTINF:-1,MX | Canal 4 HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/193
+#EXTINF:-1,MX | Canal 5 HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/192
+#EXTINF:-1,MX | Canal 8 HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/191
+#EXTINF:-1,MX | Canal de las Estrellas *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27552
+#EXTINF:-1,MX | Canal de las Estrellas *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/190
+#EXTINF:-1,MX | Canal de las Estrellas *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27553
+#EXTINF:-1,MX | Canal Judicial HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/189
+#EXTINF:-1,MX | Canal Once *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27575
+#EXTINF:-1,MX | Canal Once *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27574
+#EXTINF:-1,MX | Canal Once *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27573
+#EXTINF:-1,MX | CNN en Español
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/188
+#EXTINF:-1,MX | CNN International
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/187
+#EXTINF:-1,MX | Comedy Central *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27580
+#EXTINF:-1,MX | Comedy Central *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/186
+#EXTINF:-1,MX | Comedy Central *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27581
+#EXTINF:-1,MX | Distrito Comedia
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/185
+#EXTINF:-1,MX | Distrito Comedia *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27563
+#EXTINF:-1,MX | Distrito Comedia *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27564
+#EXTINF:-1,MX | Distrito Comedia *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27565
+#EXTINF:-1,MX | DW
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/184
+#EXTINF:-1,MX | Formula Noticias
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/183
+#EXTINF:-1,MX | Foro TV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27568
+#EXTINF:-1,MX | Foro TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/182
+#EXTINF:-1,MX | Francia 24 HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/181
+#EXTINF:-1,MX | Fuel TV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27589
+#EXTINF:-1,MX | Fuel TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27588
+#EXTINF:-1,MX | Fuel TV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27587
+#EXTINF:-1,MX | Garage TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/180
+#EXTINF:-1,MX | Glitz
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/179
+#EXTINF:-1,MX | HLN HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/178
+#EXTINF:-1,MX | Hola TV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27578
+#EXTINF:-1,MX | Hola TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/177
+#EXTINF:-1,MX | Hola TV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27579
+#EXTINF:-1,MX | Imagen TV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40013
+#EXTINF:-1,MX | Milenio *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27586
+#EXTINF:-1,MX | Milenio *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27585
+#EXTINF:-1,MX | Morbido TV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27550
+#EXTINF:-1,MX | Morbido TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27551
+#EXTINF:-1,MX | Multimedios HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/176
+#EXTINF:-1,MX | Multimedios Plus HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/175
+#EXTINF:-1,MX | NTN24
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/174
+#EXTINF:-1,MX | Panico *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22207
+#EXTINF:-1,MX | RMS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/173
+#EXTINF:-1,MX | SEC Network HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/172
+#EXTINF:-1,MX | Telenovelas
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/170
+#EXTINF:-1,MX | Televisa Pueblo HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/169
+#EXTINF:-1,MX | TLR
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/167
+#EXTINF:-1,MX | TV Mas HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/166
+#EXTINF:-1,MX | TVE
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/165
+#EXTINF:-1,MX | TVO D HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/164
+#EXTINF:-1,MX | TVO HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/163
+#EXTINF:-1,MX | Ultra Banda
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/22208
+#EXTINF:-1,MX | Unicable *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/162
+#EXTINF:-1,MX | Unicable *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27577
+#EXTINF:-1,MX | Wobi *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27582
+#EXTINF:-1,MU | BANDAMAX *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/229
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (argentina)" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES",ESPN 2 (argentina)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58092
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 (argentina) ⁽ᵃ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (argentina) ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/53991
+#EXTINF:-1,MU | MTV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/236
+#EXTINF:-1,MU | MTV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/250
+#EXTINF:-1,MU | MTV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/244
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 (colombia)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58064
+#EXTINF:-1,NIC | CANAL 8
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2589
+#EXTINF:-1,NIC | CANAL 2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2590
+#EXTINF:-1,NIC | CANAL 10
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2591
+#EXTINF:-1,NIC | CANAL 14
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2592
+#EXTINF:-1,NIC | CANAL 4
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2593
+#EXTINF:-1,NIC | CANAL 13
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2595
+#EXTINF:-1,NIC | CANAL 6
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2596
 
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 2 (méxico)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (méxico)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/27553
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (usa)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 (usa)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57818
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE 1080" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="DEPORTES",ESPN 2 CHILE 1080
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57325
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE 720 ⁽ᴹ⁾" tvg-logo="https://logodix.com/logo/313657.png" group-title="DEPORTES",ESPN 2 CHILE 720 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/16686
-
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE ⁽ˢᵈ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 CHILE ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61849
-
-
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 NORTE ⁽ˢᵈ⁾" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 NORTE ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54399
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 NORTE ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 NORTE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61490
-
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 SUR" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 SUR
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/14869
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 SUR ⁽ᴴᴰ⁾" tvg-logo="https://logodix.com/logo/313657.png" group-title="DEPORTES",ESPN 2 SUR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/609
-#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="LATINOS SD",ESPN 3
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55414
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 (méxico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 (méxico)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/15766
-#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3 SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 SUR
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/608
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="DEPORTES",ESPN 3 SUR ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/26135
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54124
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://f0.pngfuel.com/png/706/926/eurosport-2-logo-television-eurosport-1-eurosport-hd-png-clip-art.png" group-title="DEPORTES",EUROSPORT 1
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/25039
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eurosport_2.svg/640px-Eurosport_2.svg.png" group-title="DEPORTES",EUROSPORT 2 ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/57584
-#EXTINF:-1 tvg-id="" tvg-name="FOX SOCCER PLUS" tvg-logo="https://www.verizon.com/content/dam/verizon/personal/learn-images/MLP/ec/sports/foxsoc/img-fsp-logo-sm.png" group-title="DEPORTES",FOX SOCCER PLUS
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/43357
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS (argentina) ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS (argentina) ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/58065
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX SPORTS (méxico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS (méxico)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/32993
-#EXTINF:-1 tvg-id="foxsports.la" tvg-name="FOX SPORTS 1 CHILE (ʙ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 1 CHILE (ʙ)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/55004
-
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2 ⁽ᴴᴰ⁾ (méxico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 ⁽ᴴᴰ⁾ (méxico)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/613
-
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 (méxico) ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 (méxico) ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/18218
-
-#EXTINF:-1 tvg-id="foxsports.las" tvg-name="FOX SPORTS PREMIUM ⁽ᴴᴰ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190602030108&path-prefix=es" group-title="DEPORTES",FOX SPORTS PREMIUM ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/54122
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM ⁽ᴹ⁾" tvg-logo="V" group-title="DEPORTES",FOX SPORTS PREMIUM ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61489
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="LALIGA TV" tvg-logo="https://lh3.googleusercontent.com/proxy/NggWEvCDqCK2wywmQhXCDEmuAVTxEmZ3Ar4ThNVhluYdWBIJqlFqBzonbfRXNTlMG_a3Z96ASt0as7Xcg9RZDAIWvyHdx00Uf9xT7ASqzloHMbCkqnag" group-title="DEPORTES",LALIGA TV
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/46186
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/61485
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="DEPORTES",NBA TV
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/1165
-#EXTINF:-1 tvg-id="" tvg-name="RED BULL" tvg-logo="https://www.logopik.com/wp-content/uploads/edd/2018/10/Sport-Vector-Logo-Dewonload-free-226x226.png" group-title="DEPORTES",RED BULL
-http://tv.iptv5latino.cl:8000/4meses4c39/bKjlyD8IiS/10909
-#EXTINF:-1 tvg-ID="" tvg-name="===== VIP Latino ======" tvg-logo="" group-title="",===== VIP Latino ======
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6311
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TIGO SPORTS HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: TIGO SPORTS HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/31474
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TIGO SPORTS 2 HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: TIGO SPORTS 2 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/31475
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TUDN HD" tvg-logo="" group-title="Live: Latino",VIP LAT: TUDN HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34532
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TUDN X1 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: TUDN X1 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34533
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TUDN X2 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: TUDN X2 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34535
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TUDN X3 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: TUDN X3 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34536
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TUDN X4 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: TUDN X4 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34537
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TUDN X5 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: TUDN X5 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34538
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TUDN X6 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: TUDN X6 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34539
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TUDN X7 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: TUDN X7 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34540
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TUDN X8 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: TUDN X8 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34541
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TUDN X9 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: TUDN X9 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34542
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TUDN X10 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: TUDN X10 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34534
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: 15TV Sabinas" tvg-logo="" group-title="Live: Latino",VIP LAT: 15TV Sabinas
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14378
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: 26 TV HD" tvg-logo="" group-title="Live: Latino",VIP LAT: 26 TV HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14377
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: A&E" tvg-logo="[" group-title="Live: Latino",VIP LAT: A&E
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6293
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Abn Latino" tvg-logo="" group-title="Live: Latino",VIP LAT: Abn Latino
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14376
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ADN 40" tvg-logo="" group-title="Live: Latino",VIP LAT: ADN 40
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14373
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: AMC" tvg-logo="[" group-title="Live: Latino",VIP LAT: AMC
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14374
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: AYM Sports" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: AYM Sports
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6722
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ANIMAL PLANET" tvg-logo="[" group-title="Live: Latino",VIP LAT: ANIMAL PLANET
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6304
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Anime TV" tvg-logo="" group-title="Live: Latino",VIP LAT: Anime TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14355
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: AprendeTV Canal 24" tvg-logo="" group-title="Live: Latino",VIP LAT: AprendeTV Canal 24
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14311
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Artear HD" tvg-logo="" group-title="Live: Latino",VIP LAT: Artear HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14260
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ATV (Peru)" tvg-logo="[" group-title="Live: Latino",VIP LAT: ATV (Peru)
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14375
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: AXN" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: AXN
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6274
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Az Click" tvg-logo="[" group-title="Live: Latino",VIP LAT: Az Click
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14259
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: AZTECA 7" tvg-logo="[" group-title="Live: Latino",VIP LAT: AZTECA 7
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6245
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: AZTECA Cinema" tvg-logo="[" group-title="Live: Latino",VIP LAT: AZTECA Cinema
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6246
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: AZTECA MUNDO" tvg-logo="[" group-title="Live: Latino",VIP LAT: AZTECA MUNDO
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6247
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: AZTECA NOTICIAS" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: AZTECA NOTICIAS
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6244
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Bandamax" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Bandamax
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14356
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Bein Sport Ñ" tvg-logo="[" group-title="Live: Latino",VIP LAT: Bein Sport Ñ
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14252
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cable Noticias Colombia" tvg-logo="[" group-title="Live: Latino",VIP LAT: Cable Noticias Colombia
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14253
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal 10 Urg" tvg-logo="" group-title="Live: Latino",VIP LAT: Canal 10 Urg
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14312
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal 10 Chetumal" tvg-logo="[" group-title="Live: Latino",VIP LAT: Canal 10 Chetumal
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14255
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: CANAL 11 Ven" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: CANAL 11 Ven
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6252
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal 11 Venezuela" tvg-logo="[" group-title="Live: Latino",VIP LAT: Canal 11 Venezuela
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14254
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal 2 SLV" tvg-logo="" group-title="Live: Latino",VIP LAT: Canal 2 SLV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14256
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal 2 Lascano" tvg-logo="" group-title="Live: Latino",VIP LAT: Canal 2 Lascano
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14359
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal 25" tvg-logo="" group-title="Live: Latino",VIP LAT: Canal 25
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14313
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal 38 Carnaval" tvg-logo="" group-title="Live: Latino",VIP LAT: Canal 38 Carnaval
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14268
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: CANAL 4 (ARG)" tvg-logo="[" group-title="Live: Latino",VIP LAT: CANAL 4 (ARG)
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14258
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Mav TV" tvg-logo="" group-title="Live: Latino",VIP LAT: Mav TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14370
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: CANAL 5" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: CANAL 5
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6251
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal 7 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: Canal 7 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14314
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal 7 Punta" tvg-logo="" group-title="Live: Latino",VIP LAT: Canal 7 Punta
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14358
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Canal 9 Ar" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Canal 9 Ar
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14251
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal 9 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: Canal 9 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14315
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Canal A HD" tvg-logo="" group-title="Live: Latino",VIP LAT: Canal A HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14316
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: America Sport" tvg-logo="" group-title="Live: Latino",VIP LAT: America Sport
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14369
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal Antiestrés" tvg-logo="" group-title="Live: Latino",VIP LAT: Canal Antiestrés
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14354
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: CANAL CAPITAL Colombia" tvg-logo="[" group-title="Live: Latino",VIP LAT: CANAL CAPITAL Colombia
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14257
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Canal i Venezuela" tvg-logo="" group-title="Live: Latino",VIP LAT: Canal i Venezuela
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14317
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal Once Internacional" tvg-logo="[" group-title="Live: Latino",VIP LAT: Canal Once Internacional
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14318
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Fox Sports URG" tvg-logo="[" group-title="Live: Latino",VIP LAT: Fox Sports URG
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14319
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Canal Universidad" tvg-logo="" group-title="Live: Latino",VIP LAT: Canal Universidad
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14320
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: CARACOL" tvg-logo="[" group-title="Live: Latino",VIP LAT: CARACOL
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6260
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: C5N" tvg-logo="[" group-title="Live: Latino",VIP LAT: C5N
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14408
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: CARTOON NETWORK" tvg-logo="[" group-title="Live: Latino",VIP LAT: CARTOON NETWORK
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6298
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: CDF Premuim" tvg-logo="[" group-title="Live: Latino",VIP LAT: CDF Premuim
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6257
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: CDN 37 RD" tvg-logo="" group-title="Live: Latino",VIP LAT: CDN 37 RD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14368
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: CDN Sportmax RD" tvg-logo="" group-title="Live: Latino",VIP LAT: CDN Sportmax RD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14367
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: CINECANAL" tvg-logo="" group-title="Live: Latino",VIP LAT: CINECANAL
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6271
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: CINELATINO" tvg-logo="[" group-title="Live: Latino",VIP LAT: CINELATINO
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6269
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: City TV Co" tvg-logo="[" group-title="Live: Latino",VIP LAT: City TV Co
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14321
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: CN 23" tvg-logo="[" group-title="Live: Latino",VIP LAT: CN 23
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14322
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: CNN en Espagnol" tvg-logo="[" group-title="Live: Latino",VIP LAT: CNN en Espagnol
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/8408
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: CNT Sports" tvg-logo="" group-title="Live: Latino",VIP LAT: CNT Sports
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14323
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Colosal" tvg-logo="" group-title="Live: Latino",VIP LAT: Colosal
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14324
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Comedy Central Latinoamerica" tvg-logo="[" group-title="Live: Latino",VIP LAT: Comedy Central Latinoamerica
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14360
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cronica TV HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Cronica TV HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14325
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Directv Sport" tvg-logo="[" group-title="Live: Latino",VIP LAT: Directv Sport
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14407
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Directv Sport 2" tvg-logo="[" group-title="Live: Latino",VIP LAT: Directv Sport 2
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14406
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: DE PELICULA" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: DE PELICULA
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6264
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: DISCOVERY CHANNEL" tvg-logo="[" group-title="Live: Latino",VIP LAT: DISCOVERY CHANNEL
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6300
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Discovery Familia HD" tvg-logo="" group-title="Live: Latino",VIP LAT: Discovery Familia HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14326
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Discovery Kids" tvg-logo="[" group-title="Live: Latino",VIP LAT: Discovery Kids
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6305
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Discovery Theater" tvg-logo="[" group-title="Live: Latino",VIP LAT: Discovery Theater
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14361
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Discovery Turbo" tvg-logo="[" group-title="Live: Latino",VIP LAT: Discovery Turbo
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14362
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: DISNEY CHANNEL" tvg-logo="[" group-title="Live: Latino",VIP LAT: DISNEY CHANNEL
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6296
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: DISNEY Jr" tvg-logo="[" group-title="Live: Latino",VIP LAT: DISNEY Jr
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6297
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Disney XD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Disney XD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14363
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: DISTRITO COMEDIA" tvg-logo="[" group-title="Live: Latino",VIP LAT: DISTRITO COMEDIA
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6268
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Fox Deportes HD" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Fox Deportes HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6291
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: E!" tvg-logo="[" group-title="Live: Latino",VIP LAT: E!
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6272
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Ecuador TV" tvg-logo="[" group-title="Live: Latino",VIP LAT: Ecuador TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14327
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: EL GOURMET" tvg-logo="[" group-title="Live: Latino",VIP LAT: EL GOURMET
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6262
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: El Tiempo" tvg-logo="" group-title="Live: Latino",VIP LAT: El Tiempo
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14371
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ESPN 1 HD Arg" tvg-logo="[" group-title="Live: Latino",VIP LAT: ESPN 1 HD Arg
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14414
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ESPN 2 HD Arg" tvg-logo="[" group-title="Live: Latino",VIP LAT: ESPN 2 HD Arg
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14413
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ESPN 3 HD Arg" tvg-logo="[" group-title="Live: Latino",VIP LAT: ESPN 3 HD Arg
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14412
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ESPN" tvg-logo="[" group-title="Live: Latino",VIP LAT: ESPN
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6288
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ESPN 2" tvg-logo="[" group-title="Live: Latino",VIP LAT: ESPN 2
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6289
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ESPN 3" tvg-logo="" group-title="Live: Latino",VIP LAT: ESPN 3
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6290
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ESPN Deportes" tvg-logo="[" group-title="Live: Latino",VIP LAT: ESPN Deportes
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14365
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ESPN Deportes HD Arg" tvg-logo="" group-title="Live: Latino",VIP LAT: ESPN Deportes HD Arg
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14331
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ESPN Exrta HD ARG" tvg-logo="" group-title="Live: Latino",VIP LAT: ESPN Exrta HD ARG
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14332
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Europa Europa" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Europa Europa
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14333
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Eventos 1 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: Eventos 1 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14334
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Eventos 2 HD" tvg-logo="" group-title="Live: Latino",VIP LAT: Eventos 2 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14335
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Film & Arts HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Film & Arts HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6306
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Food Network" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Food Network
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14293
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Directv Sport+" tvg-logo="[" group-title="Live: Latino",VIP LAT: Directv Sport+
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14364
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: FORO TV" tvg-logo="" group-title="Live: Latino",VIP LAT: FORO TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6256
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: FOX" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: FOX
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6273
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: FOX 1" tvg-logo="[" group-title="Live: Latino",VIP LAT: FOX 1
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6278
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: FOX ACTION" tvg-logo="" group-title="Live: Latino",VIP LAT: FOX ACTION
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6283
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: FOX CINEMA" tvg-logo="" group-title="Live: Latino",VIP LAT: FOX CINEMA
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6279
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Fox Classics Latinoamerica" tvg-logo="[" group-title="Live: Latino",VIP LAT: Fox Classics Latinoamerica
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14366
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Fox Comedy Arg" tvg-logo="[" group-title="Live: Latino",VIP LAT: Fox Comedy Arg
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14336
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Fox Family Arg" tvg-logo="[" group-title="Live: Latino",VIP LAT: Fox Family Arg
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14338
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: FOX LIFE" tvg-logo="[" group-title="Live: Latino",VIP LAT: FOX LIFE
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6281
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: FOX MOVIES" tvg-logo="" group-title="Live: Latino",VIP LAT: FOX MOVIES
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6280
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Fox Movies Premium HD Arg" tvg-logo="[" group-title="Live: Latino",VIP LAT: Fox Movies Premium HD Arg
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14339
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Fox Sports HD Arg" tvg-logo="[" group-title="Live: Latino",VIP LAT: Fox Sports HD Arg
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14411
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Fox Sports 2 HD Arg" tvg-logo="[" group-title="Live: Latino",VIP LAT: Fox Sports 2 HD Arg
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14410
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Fox Sports 3 HD Arg" tvg-logo="[" group-title="Live: Latino",VIP LAT: Fox Sports 3 HD Arg
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14409
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Fox Sports Premium HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Fox Sports Premium HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14405
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: FOX SPORT" tvg-logo="" group-title="Live: Latino",VIP LAT: FOX SPORT
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6286
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: FOX SPORT 2" tvg-logo="" group-title="Live: Latino",VIP LAT: FOX SPORT 2
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6287
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: FOX SPORT 3" tvg-logo="[" group-title="Live: Latino",VIP LAT: FOX SPORT 3
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6309
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Fox Sports Ven" tvg-logo="[" group-title="Live: Latino",VIP LAT: Fox Sports Ven
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14341
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Fox Sports 2 HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Fox Sports 2 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14342
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Fox Sports PY" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Fox Sports PY
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14344
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Fox Sports Chl" tvg-logo="" group-title="Live: Latino",VIP LAT: Fox Sports Chl
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14346
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: FX" tvg-logo="[" group-title="Live: Latino",VIP LAT: FX
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6282
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Gama TV" tvg-logo="" group-title="Live: Latino",VIP LAT: Gama TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14347
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: GLITZ" tvg-logo="[" group-title="Live: Latino",VIP LAT: GLITZ
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6266
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Gol TV HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Gol TV HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14348
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Golden" tvg-logo="" group-title="Live: Latino",VIP LAT: Golden
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/8407
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Golder EDGE" tvg-logo="" group-title="Live: Latino",VIP LAT: Golder EDGE
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/8409
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: H2" tvg-logo="[" group-title="Live: Latino",VIP LAT: H2
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6253
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: HBO" tvg-logo="[" group-title="Live: Latino",VIP LAT: HBO
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6250
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: HBO 2" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: HBO 2
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6249
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: HBO Family" tvg-logo="[" group-title="Live: Latino",VIP LAT: HBO Family
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6255
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: HBO Signature" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: HBO Signature
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6248
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: HispanTV" tvg-logo="" group-title="Live: Latino",VIP LAT: HispanTV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14349
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: HISTORY" tvg-logo="[" group-title="Live: Latino",VIP LAT: HISTORY
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6301
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: INVESTIGACION DISCOVERY" tvg-logo="[" group-title="Live: Latino",VIP LAT: INVESTIGACION DISCOVERY
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6299
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: La Nacion HD" tvg-logo="" group-title="Live: Latino",VIP LAT: La Nacion HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14350
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: LA RED Chile" tvg-logo="[" group-title="Live: Latino",VIP LAT: LA RED Chile
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/8411
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Lateletuya" tvg-logo="" group-title="Live: Latino",VIP LAT: Lateletuya
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14351
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: LIFEDESIGN Co" tvg-logo="" group-title="Live: Latino",VIP LAT: LIFEDESIGN Co
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14248
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Lifetime" tvg-logo="[" group-title="Live: Latino",VIP LAT: Lifetime
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14372
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Locomotion" tvg-logo="" group-title="Live: Latino",VIP LAT: Locomotion
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14352
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Movistar Deportes" tvg-logo="" group-title="Live: Latino",VIP LAT: Movistar Deportes
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14861
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Magazine HD" tvg-logo="" group-title="Live: Latino",VIP LAT: Magazine HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14353
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Mas Chic" tvg-logo="[" group-title="Live: Latino",VIP LAT: Mas Chic
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14294
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Max Prime" tvg-logo="" group-title="Live: Latino",VIP LAT: Max Prime
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14295
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Max UP" tvg-logo="[" group-title="Live: Latino",VIP LAT: Max UP
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14296
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Mega Chile HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Mega Chile HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/7541
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: MI MUSICA HD" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: MI MUSICA HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6720
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Migente Tv Colombia" tvg-logo="" group-title="Live: Latino",VIP LAT: Migente Tv Colombia
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14249
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: MTV LATINO" tvg-logo="[" group-title="Live: Latino",VIP LAT: MTV LATINO
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6308
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: MTV LATINO LIVE" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: MTV LATINO LIVE
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6307
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: MULTIMEDIOS Plus" tvg-logo="" group-title="Live: Latino",VIP LAT: MULTIMEDIOS Plus
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6258
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: MundoFox" tvg-logo="[" group-title="Live: Latino",VIP LAT: MundoFox
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6285
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: MVS NOTICIAS" tvg-logo="" group-title="Live: Latino",VIP LAT: MVS NOTICIAS
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14250
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: NAT GEO WILD" tvg-logo="[" group-title="Live: Latino",VIP LAT: NAT GEO WILD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6303
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: NATIONAL GEOGRAPHIC" tvg-logo="[" group-title="Live: Latino",VIP LAT: NATIONAL GEOGRAPHIC
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6302
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Nick 2" tvg-logo="[" group-title="Live: Latino",VIP LAT: Nick 2
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14309
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: NICK Jr" tvg-logo="[" group-title="Live: Latino",VIP LAT: NICK Jr
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6295
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Nick Toons" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Nick Toons
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14297
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: NICKELODEON" tvg-logo="[" group-title="Live: Latino",VIP LAT: NICKELODEON
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6294
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: NIU TV Ch" tvg-logo="" group-title="Live: Latino",VIP LAT: NIU TV Ch
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14247
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Nos Pais TV" tvg-logo="" group-title="Live: Latino",VIP LAT: Nos Pais TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14310
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: NTN 24" tvg-logo="" group-title="Live: Latino",VIP LAT: NTN 24
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14308
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Power HD Ar" tvg-logo="" group-title="Live: Latino",VIP LAT: Power HD Ar
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14246
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Promar" tvg-logo="" group-title="Live: Latino",VIP LAT: Promar
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14307
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Puebla TV" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Puebla TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14306
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: PX Sports TV" tvg-logo="" group-title="Live: Latino",VIP LAT: PX Sports TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14305
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Romana TV Canal 42 RD" tvg-logo="" group-title="Live: Latino",VIP LAT: Romana TV Canal 42 RD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14304
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: ARTS" tvg-logo="" group-title="Live: Latino",VIP LAT: ARTS
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14303
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Senal Colombia" tvg-logo="[" group-title="Live: Latino",VIP LAT: Senal Colombia
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14302
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Somos Oeste HD" tvg-logo="" group-title="Live: Latino",VIP LAT: Somos Oeste HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14301
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: SPACE" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: SPACE
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6277
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Sun Channel Colombia" tvg-logo="" group-title="Live: Latino",VIP LAT: Sun Channel Colombia
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14300
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: SUNDANCE TV" tvg-logo="[" group-title="Live: Latino",VIP LAT: SUNDANCE TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6267
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TC Television" tvg-logo="[" group-title="Live: Latino",VIP LAT: TC Television
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14299
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TDN HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: TDN HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/8410
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Afore Azteca" tvg-logo="[" group-title="Live: Latino",VIP LAT: Afore Azteca
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14242
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Tele 13" tvg-logo="" group-title="Live: Latino",VIP LAT: Tele 13
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14286
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Tele Amazonas" tvg-logo="" group-title="Live: Latino",VIP LAT: Tele Amazonas
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14285
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: TELE F1" tvg-logo="" group-title="Live: Latino",VIP LAT: TELE F1
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/7875
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TELE MUSIC TOP" tvg-logo="[" group-title="Live: Latino",VIP LAT: TELE MUSIC TOP
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6723
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Tele Vida" tvg-logo="" group-title="Live: Latino",VIP LAT: Tele Vida
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14244
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Teleantioquia" tvg-logo="" group-title="Live: Latino",VIP LAT: Teleantioquia
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14280
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Telebachillerato Canal 17" tvg-logo="" group-title="Live: Latino",VIP LAT: Telebachillerato Canal 17
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14284
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Telecafé" tvg-logo="" group-title="Live: Latino",VIP LAT: Telecafé
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14245
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Telefe HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Telefe HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14283
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: TeleHit" tvg-logo="" group-title="Live: Latino",VIP LAT: TeleHit
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6270
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Teleislas RD" tvg-logo="" group-title="Live: Latino",VIP LAT: Teleislas RD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14282
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Telemetro 13" tvg-logo="" group-title="Live: Latino",VIP LAT: Telemetro 13
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14281
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Telemicro Canal 5 RD" tvg-logo="" group-title="Live: Latino",VIP LAT: Telemicro Canal 5 RD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14292
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TELEMUNDO" tvg-logo="[" group-title="Live: Latino",VIP LAT: TELEMUNDO
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/8406
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Telemundo HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Telemundo HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14279
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TELEMUNDO INT" tvg-logo="[" group-title="Live: Latino",VIP LAT: TELEMUNDO INT
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6310
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TeleNovelas" tvg-logo="[" group-title="Live: Latino",VIP LAT: TeleNovelas
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14269
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Teleritmo" tvg-logo="" group-title="Live: Latino",VIP LAT: Teleritmo
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14278
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Telesecundaria Canal 11" tvg-logo="" group-title="Live: Latino",VIP LAT: Telesecundaria Canal 11
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14290
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Telesecundaria Plus Canal 27" tvg-logo="" group-title="Live: Latino",VIP LAT: Telesecundaria Plus Canal 27
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14277
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Telesistema 11 RD" tvg-logo="" group-title="Live: Latino",VIP LAT: Telesistema 11 RD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14276
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Television Mexiquense" tvg-logo="" group-title="Live: Latino",VIP LAT: Television Mexiquense
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14289
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Tigo Music" tvg-logo="" group-title="Live: Latino",VIP LAT: Tigo Music
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14291
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: TiiN" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: TiiN
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6690
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Tiva TV Puerto Rico" tvg-logo="" group-title="Live: Latino",VIP LAT: Tiva TV Puerto Rico
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14275
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TLC" tvg-logo="[" group-title="Live: Latino",VIP LAT: TLC
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6259
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TC" tvg-logo="[" group-title="Live: Latino",VIP LAT: TC
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14236
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TN HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: TN HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14298
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TNT" tvg-logo="[" group-title="Live: Latino",VIP LAT: TNT
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6261
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TNT Sports HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: TNT Sports HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/15490
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Tooncast" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Tooncast
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14271
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Top Latino" tvg-logo="[" group-title="Live: Latino",VIP LAT: Top Latino
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14274
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Trendy Channel Co" tvg-logo="" group-title="Live: Latino",VIP LAT: Trendy Channel Co
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14273
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: TRU TV" tvg-logo="" group-title="Live: Latino",VIP LAT: TRU TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6265
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: TV Cuatro 1" tvg-logo="" group-title="Live: Latino",VIP LAT: TV Cuatro 1
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14288
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: TV Cuatro 2" tvg-logo="" group-title="Live: Latino",VIP LAT: TV Cuatro 2
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14287
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: TV Maná Argentina" tvg-logo="" group-title="Live: Latino",VIP LAT: TV Maná Argentina
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14272
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TV MARTI" tvg-logo="" group-title="Live: Latino",VIP LAT: TV MARTI
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6263
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TVN Chile HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: TVN Chile HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/7540
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: TVS Satelital" tvg-logo="" group-title="Live: Latino",VIP LAT: TVS Satelital
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14241
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: TyC Sports HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: TyC Sports HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14270
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: UNIMAS HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: UNIMAS HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6254
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: UNIVERSAL" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: UNIVERSAL
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6275
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: UNIVISION HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: UNIVISION HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6292
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: UNIVISION TDN HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: UNIVISION TDN HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6284
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Ve Plus TV" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Ve Plus TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14264
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Vmas TV" tvg-logo="" group-title="Live: Latino",VIP LAT: Vmas TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14266
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: VTV" tvg-logo="[" group-title="Live: Latino",VIP LAT: VTV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14263
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: VTV Plus" tvg-logo="" group-title="Live: Latino",VIP LAT: VTV Plus
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14262
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: VTV Uruguay" tvg-logo="[" group-title="Live: Latino",VIP LAT: VTV Uruguay
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14261
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Wapa" tvg-logo="" group-title="Live: Latino",VIP LAT: Wapa
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14267
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: WARNER" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: WARNER
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/6276
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: WIN SPORTS Co" tvg-logo="[" group-title="Live: Latino",VIP LAT: WIN SPORTS Co
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14240
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Wobi" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Wobi
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/14265
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: A&E HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: A&E HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17334
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: AMC HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: AMC HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17333
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Canal Claro" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Canal Claro
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17332
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Caracol HD 1080P" tvg-logo="[" group-title="Live: Latino",VIP LAT: Caracol HD 1080P
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17331
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17330
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: City TV" tvg-logo="[" group-title="Live: Latino",VIP LAT: City TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17329
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Claro Cinema" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Claro Cinema
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17328
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Claro Musica A" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Claro Musica A
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17327
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Claro Musica B" tvg-logo="" group-title="Live: Latino",VIP LAT: Claro Musica B
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17326
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Claro Sports" tvg-logo="[" group-title="Live: Latino",VIP LAT: Claro Sports
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17325
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Claro Sports 2" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Claro Sports 2
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17324
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Claro Sports 2 HD" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Claro Sports 2 HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17323
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Claro Sports HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Claro Sports HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17322
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: CNN" tvg-logo="[" group-title="Live: Latino",VIP LAT: CNN
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17321
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Comedy Central HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Comedy Central HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17320
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Concert Channel HD" tvg-logo="" group-title="Live: Latino",VIP LAT: Concert Channel HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17319
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Cristovision" tvg-logo="" group-title="Live: Latino",VIP LAT: Cristovision
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17318
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Discovery Channel HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Discovery Channel HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17317
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Discovery H&H HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Discovery H&H HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17316
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Discovery Kids HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Discovery Kids HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17315
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Discovery World HD" tvg-logo="[""]" group-title="Live: Latino",VIP LAT: Discovery World HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17314
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: E! Entertainment" tvg-logo="[" group-title="Live: Latino",VIP LAT: E! Entertainment
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17313
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: El Sembrador" tvg-logo="" group-title="Live: Latino",VIP LAT: El Sembrador
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17312
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Euro Channel" tvg-logo="" group-title="Live: Latino",VIP LAT: Euro Channel
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17311
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: History HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: History HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17310
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Investigation Discovery HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Investigation Discovery HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17309
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: MTV HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: MTV HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17308
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Nat Geo Wild HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Nat Geo Wild HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17307
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Nick Jr. HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Nick Jr. HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17306
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Nickelodeon HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Nickelodeon HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17305
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Paramount Channel HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Paramount Channel HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17304
-#EXTINF:-1 tvg-ID="" tvg-name="VIP LAT: Radio y TV Queretaro" tvg-logo="" group-title="Live: Latino",VIP LAT: Radio y TV Queretaro
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17303
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Sony HD" tvg-logo="[" group-title="Live: Latino",VIP LAT: Sony HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17302
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: America TV" tvg-logo="[" group-title="Live: Latino",VIP SA: America TV
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11972
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: CANAL 13 (pendiente)" tvg-logo="[" group-title="Live: Latino",VIP SA: CANAL 13 (pendiente)
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11961
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: CARACOL HD" tvg-logo="[" group-title="Live: Latino",VIP SA: CARACOL HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11966
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: CDF PREMIUM" tvg-logo="[" group-title="Live: Latino",VIP SA: CDF PREMIUM
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11959
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: CHV (pendiente)" tvg-logo="" group-title="Live: Latino",VIP SA: CHV (pendiente)
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11958
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: ChileVision HD" tvg-logo="[" group-title="Live: Latino",VIP SA: ChileVision HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/17462
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: CNN" tvg-logo="[" group-title="Live: Latino",VIP SA: CNN
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11957
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: DISCOVERY HOME&HEALTH" tvg-logo="[" group-title="Live: Latino",VIP SA: DISCOVERY HOME&HEALTH
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11949
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SA: DISCOVERY CHANNEL" tvg-logo="" group-title="Live: Latino",VIP SA: DISCOVERY CHANNEL
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11948
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: FOX Sport" tvg-logo="[" group-title="Live: Latino",VIP SA: FOX Sport
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11956
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: GOLPERU (pendiente1)" tvg-logo="" group-title="Live: Latino",VIP SA: GOLPERU (pendiente1)
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11971
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: LA RED" tvg-logo="[" group-title="Live: Latino",VIP SA: LA RED
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11955
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: MEGA HD" tvg-logo="[" group-title="Live: Latino",VIP SA: MEGA HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11954
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: PANAMERICANA (pendiente1)" tvg-logo="[" group-title="Live: Latino",VIP SA: PANAMERICANA (pendiente1)
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11970
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SA: PERU MAGICO (pendiente1)" tvg-logo="" group-title="Live: Latino",VIP SA: PERU MAGICO (pendiente1)
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11969
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: RCN HD" tvg-logo="[" group-title="Live: Latino",VIP SA: RCN HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11965
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: TELEANTIOQUIA" tvg-logo="" group-title="Live: Latino",VIP SA: TELEANTIOQUIA
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11964
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: TR3CE HD Colombia" tvg-logo="[" group-title="Live: Latino",VIP SA: TR3CE HD Colombia
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11963
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SA: TV PERU 7.3" tvg-logo="" group-title="Live: Latino",VIP SA: TV PERU 7.3
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11968
-#EXTINF:-1 tvg-ID="" tvg-name="VIP SA: TV PERU HD" tvg-logo="" group-title="Live: Latino",VIP SA: TV PERU HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11967
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: TVN HD" tvg-logo="[" group-title="Live: Latino",VIP SA: TVN HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11953
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: UNIVERSAL CHANNEL" tvg-logo="[" group-title="Live: Latino",VIP SA: UNIVERSAL CHANNEL
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11952
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: Univision Network" tvg-logo="[" group-title="Live: Latino",VIP SA: Univision Network
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11951
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: Univision Deportes HD" tvg-logo="[" group-title="Live: Latino",VIP SA: Univision Deportes HD
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11950
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SA: WIN SPORT" tvg-logo="[" group-title="Live: Latino",VIP SA: WIN SPORT
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/11962
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 1" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 1
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34875
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 2" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 2
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34876
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 3" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 3
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34877
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 4" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 4
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34878
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 5" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 5
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34879
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 6" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 6
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34880
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 7" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 7
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34881
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 8" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 8
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34882
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 9" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 9
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34883
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 10" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 10
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34884
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 11" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 11
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34885
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 12" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 12
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34886
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 13" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 13
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34887
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 14" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 14
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34888
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 15" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 15
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34889
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 16" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 16
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34890
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 17" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 17
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34891
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 18" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 18
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34892
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 19" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 19
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34893
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 20" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 20
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34894
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 21" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 21
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34895
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 22" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 22
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34896
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 23" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 23
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34897
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 24" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 24
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34898
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 25" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 25
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34899
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 26" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 26
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34900
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 27" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 27
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34901
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 28" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 28
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34902
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 29" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 29
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34903
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 30" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 30
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34904
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 31" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 31
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34905
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 32" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 32
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34906
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 33" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 33
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34907
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 34" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 34
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34908
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 35" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 35
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34909
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP LAT: Cinema PPV 36" tvg-logo="" group-title="Live: Latino",VIP LAT: Cinema PPV 36
-http://livego.club:8080/hyN7HTQTaS/cP1U6nkDQZ/34910
+#EXTINF:-1,PAN | HOSSANA VISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2578
+#EXTINF:-1,PAN | NEXT TV 21
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2577
+#EXTINF:-1,PAN | RPC 4
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2586
+#EXTINF:-1,PAN | RPC 4 op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2575
+#EXTINF:-1,PAN | SER TV CANAL 11
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2588
+#EXTINF:-1,PAN | TELEMETRO 13
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2573
+#EXTINF:-1,PAN | TELEMETRO 13 op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2585
+#EXTINF:-1,PAN | TV MAX 9
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2583
+#EXTINF:-1,PAN | TV MAX 9 op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2580
+#EXTINF:-1,PAN | TVN 2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2574
+#EXTINF:-1,PAN | TVN 2 op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2582
+#EXTINF:-1,PAR | C9N
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/432
+#EXTINF:-1,PAR | FARRA PLAY
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/434
+#EXTINF:-1,PAR | GEN TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/433
+#EXTINF:-1,PAR | HEI PARAGUAY
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/435
+#EXTINF:-1,PAR | LA TELE
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/437
+#EXTINF:-1,PAR | LOBO STATION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/436
+#EXTINF:-1,PAR | NOTICIAS PY
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/438
+#EXTINF:-1,PAR | PARAGUAY TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/439
+#EXTINF:-1,PAR | PARAVISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/440
+#EXTINF:-1,PAR | RADIO VENUS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/441
+#EXTINF:-1,PAR | RCC TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/442
+#EXTINF:-1,PAR | RED GUARANI
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/443
+#EXTINF:-1,PAR | RPC
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/444
+#EXTINF:-1,PAR | SNT
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/445
+#EXTINF:-1,PAR | SUR TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/446
+#EXTINF:-1,PAR | TELEFUTURO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/447
+#EXTINF:-1,PAR | TV ABC
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/448
+#EXTINF:-1,PAR | UNICANAL
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/449
+#EXTINF:-1,PE | AMERICA TV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17282
+#EXTINF:-1,PE | AMERICA TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1133
+#EXTINF:-1,PE | AMERICA TV *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/6093
+#EXTINF:-1,PE | AMERICA TV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1134
+#EXTINF:-1,PE | AMERICA TV *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5427
+#EXTINF:-1,PE | ATV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1136
+#EXTINF:-1,PE | ATV *HQ | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17278
+#EXTINF:-1,PE | ATV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1135
+#EXTINF:-1,PE | ATV *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5428
+#EXTINF:-1,PE | ATV *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/16327
+#EXTINF:-1,PE | ATV PLUS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27515
+#EXTINF:-1,PE | BHTV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41440
+#EXTINF:-1,PE | CANAL IPE
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1152
+#EXTINF:-1,PE | CANAL N *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17279
+#EXTINF:-1,PE | CANAL N *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17280
+#EXTINF:-1,PE | EXITOSA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27510
+#EXTINF:-1,PE | GLOBAL TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41439
+#EXTINF:-1,PE | KARIBEÑA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41441
+#EXTINF:-1,PE | LA TELE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40012
+#EXTINF:-1,PE | LATINA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1138
+#EXTINF:-1,PE | LATINA *HQ | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17277
+#EXTINF:-1,PE | LATINA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1139
+#EXTINF:-1,PE | LATINA *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1137
+#EXTINF:-1,PE | LATINA *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/6220
+#EXTINF:-1,PE | MOVISTAR PLUS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1143
+#EXTINF:-1,PE | MOVISTAR PLUS *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40009
+#EXTINF:-1,PE | PANAMERICANA *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1141
+#EXTINF:-1,PE | PANAMERICANA *HQ | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17283
+#EXTINF:-1,PE | PANAMERICANA *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1142
+#EXTINF:-1,PE | PANAMERICANA *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1140
+#EXTINF:-1,PE | PERU MAGICO *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17276
+#EXTINF:-1,PE | PERU MAGICO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1144
+#EXTINF:-1,PE | RPP TV *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17281
+#EXTINF:-1,PE | RPP TV *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/16456
+#EXTINF:-1,PE | TV PERU *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27514
+#EXTINF:-1,PE | TV PERU NOTICIAS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1150
+#EXTINF:-1,PE | WILLAX *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27511
+#EXTINF:-1,PR | MEGA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5192
+#EXTINF:-1,PR | MEGA | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5198
+#EXTINF:-1,PR | NOTIUNO TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5199
+#EXTINF:-1,PR | PUNTO2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5193
+#EXTINF:-1,PR | TELEMUNDO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5197
+#EXTINF:-1,PR | TELEORO CANAL 13
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5583
+#EXTINF:-1,PR | UNIVISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5580
+#EXTINF:-1,PR | WAPA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5195
+#EXTINF:-1,PR | WAPA 2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5581
+#EXTINF:-1,PR | WAPA AMERICA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5582
+#EXTINF:-1,PR | WIPR
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5194
+#EXTINF:-1,DO | ANTENA LATINA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28926
+#EXTINF:-1,DO | CANAL 25
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28921
+#EXTINF:-1,DO | CANAL DEL SOL
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/602
+#EXTINF:-1,DO | CDN
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28916
+#EXTINF:-1,DO | CDN HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/603
+#EXTINF:-1,DO | CDN SPORT
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28917
+#EXTINF:-1,DO | CDN SportsMax HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/604
+#EXTINF:-1,DO | CERTV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/606
+#EXTINF:-1,DO | CINEVISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/605
+#EXTINF:-1,DO | COLOR VISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28918
+#EXTINF:-1,DO | COLOR VISION HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/607
+#EXTINF:-1,DO | COMUNION TV HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/608
+#EXTINF:-1,DO | DIGITAL 15
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/609
+#EXTINF:-1,DO | DIGITAL VISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/610
+#EXTINF:-1,DO | LA VOZ DE MARIA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/611
+#EXTINF:-1,DO | MICROVISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/613
+#EXTINF:-1,DO | READY TELEVISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/630
+#EXTINF:-1,DO | ROMANA TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/615
+#EXTINF:-1,DO | SUPER CANAL
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28939
+#EXTINF:-1,DO | SUPER TV 55
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/617
+#EXTINF:-1,DO | TELE ANTILLAS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28941
+#EXTINF:-1,DO | TELE CENTRO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28943
+#EXTINF:-1,DO | TELE FUTURO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28944
+#EXTINF:-1,DO | TELECENTRO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/620
+#EXTINF:-1,DO | TELEMICRO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/622
+#EXTINF:-1,DO | TELEMICRO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28945
+#EXTINF:-1,DO | TELEMICRO *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/623
+#EXTINF:-1,DO | TELERADIO AMERICA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/624
+#EXTINF:-1,DO | TELEUNIVERSO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/627
+#EXTINF:-1,DO | TELEUNIVERSO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28922
+#EXTINF:-1,24 PLAY | GEO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5319
+#EXTINF:-1,ADN | GEO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5341
+#EXTINF:-1,ALEGRIA TV | GEO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5423
+#EXTINF:-1,AM CANAL | GEO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5349
+#EXTINF:-1,ANCOATV | GEO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5370
+#EXTINF:-1,ANTOFAGASTA TV | GEO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5348
+#EXTINF:-1,ATACAMA TV | GEO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5351
 
 
+#EXTINF:-1,CUBA | TELE REBELDE
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29727
+#EXTINF:-1,CUBA | MULTIVISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29728
+#EXTINF:-1,CUBA | CUBAPLAY
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/29729
+#EXTINF:-1,UR | 1000 X HORA TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/403
+#EXTINF:-1,UR | 1000 X HORA TV | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40938
+#EXTINF:-1,UR | A+V
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/404
+#EXTINF:-1,UR | ARTIGAS TELEVISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/405
+#EXTINF:-1,UR | CANAL 10 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28492
+#EXTINF:-1,UR | CANAL 10 *HQ | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17332
+#EXTINF:-1,UR | CANAL 10 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/428
+#EXTINF:-1,UR | CANAL 10 *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28491
+#EXTINF:-1,UR | CANAL 11
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/406
+#EXTINF:-1,UR | CANAL 11 | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40966
+#EXTINF:-1,UR | CANAL 12 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17330
+#EXTINF:-1,UR | CANAL 12 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/430
+#EXTINF:-1,UR | CANAL 12 *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28493
+#EXTINF:-1,UR | CANAL 12 MELO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/407
+#EXTINF:-1,UR | CANAL 12 MELO | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40947
+#EXTINF:-1,UR | CANAL 2 LASCANO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/408
+#EXTINF:-1,UR | CANAL 2 SAN CARLOS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/409
+#EXTINF:-1,UR | CANAL 2 VISION CANARIA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40974
+#EXTINF:-1,UR | CANAL 4 *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/17331
+#EXTINF:-1,UR | CANAL 4 *HQ | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28490
+#EXTINF:-1,UR | CANAL 4 *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/431
+#EXTINF:-1,UR | CANAL 4 *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28489
+#EXTINF:-1,UR | CANAL 4 JUAN LACAZE
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40982
+#EXTINF:-1,UR | CANAL 4 PAYSANDU
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/410
+#EXTINF:-1,UR | CANAL 4 PAYSANDU | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40973
+#EXTINF:-1,UR | CANAL 4 SALTO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/412
+#EXTINF:-1,UR | CANAL 4 SALTO | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40945
+#EXTINF:-1,UR | CANAL 6 DURAZNO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/413
+#EXTINF:-1,UR | CANAL 6 DURAZNO | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40959
+#EXTINF:-1,UR | CANAL 7 PUNTA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/414
+#EXTINF:-1,UR | CANAL 7 PUNTA | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40946
+#EXTINF:-1,UR | CANAL 8 ARTIGAS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40984
+#EXTINF:-1,UR | CANAL 8 ROCHA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40967
+#EXTINF:-1,UR | CANAL 8 SALTO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40980
+#EXTINF:-1,UR | CANAL U
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/415
+#EXTINF:-1,UR | CANAL U | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40941
+#EXTINF:-1,UR | CANAL-M
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40942
+#EXTINF:-1,UR | CANAL-M | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/416
+#EXTINF:-1,UR | CARDINAL TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/417
+#EXTINF:-1,UR | CHARRUA TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/418
+#EXTINF:-1,UR | CHARRUA TV | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40954
+#EXTINF:-1,UR | DURAZNO TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/419
+#EXTINF:-1,UR | EL CANAL DE LA REGION - NORESTE
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40971
+#EXTINF:-1,UR | FLORIDA TELEVISION COLOR
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/420
+#EXTINF:-1,UR | FLORIDA TELEVISORA COLOR | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40960
+#EXTINF:-1,UR | LATINA TV PAYSANDU
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/421
+#EXTINF:-1,UR | LATINA TV PAYSANDU | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40950
+#EXTINF:-1,UR | MAROÑAS ENTERTAIMENT
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/422
+#EXTINF:-1,UR | MIEM
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40962
+#EXTINF:-1,UR | PANTALLA IMPO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/423
+#EXTINF:-1,UR | PRESIDENCIA URUGUAY
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/424
+#EXTINF:-1,UR | RDTV 24HS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40936
+#EXTINF:-1,UR | RTV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/425
+#EXTINF:-1,UR | SAN JOSE AHORA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40975
+#EXTINF:-1,UR | TELEVISION NACIONAL URUGUAY
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/429
+#EXTINF:-1,UR | TV CIUDAD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/426
+#EXTINF:-1,UR | TVL PANDO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40981
+#EXTINF:-1,UR | URUGUAY NATURAL TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/427
+#EXTINF:-1,UR | VEOFLIX
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40977
+#EXTINF:-1,UR | VERA+ HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40931
+#EXTINF:-1,UR | VIVO CANAL 3
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40957
 
-
+#EXTINF:-1,Estrella TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2466
+#EXTINF:-1,Galavision
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5816
+#EXTINF:-1,Galavision Atlanta
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5808
+#EXTINF:-1,Galavision Dallas
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5812
+#EXTINF:-1,Galavision East
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/373
+#EXTINF:-1,Galavision East
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5813
+#EXTINF:-1,Galavision Fresno
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5814
+#EXTINF:-1,Galavision las Vegas
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5817
+#EXTINF:-1,Galavision Miami
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5818
+#EXTINF:-1,Galavision New York
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5819
+#EXTINF:-1,Galavision Philadelphia
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5820
+#EXTINF:-1,Galavision Phoenix
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5821
+#EXTINF:-1,Galavision Raleigh
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5822
+#EXTINF:-1,Galavision Sacramento
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5823
+#EXTINF:-1,Galavision Salt Lake
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5824
+#EXTINF:-1,Galavision San Antonio
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5825
+#EXTINF:-1,Galavision San Francisco
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5826
+#EXTINF:-1,Galavision West
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/371
+#EXTINF:-1,Galavision West
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5827
+#EXTINF:-1,Galavisionn Houston
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5815
+#EXTINF:-1,Horoscopes
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/372
+#EXTINF:-1,Lo Mejor de Despierta America
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5889
+#EXTINF:-1,MEGA TV MIAMI
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27542
+#EXTINF:-1,Novelas
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/370
+#EXTINF:-1,Novelas in 5 Minutos
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5890
+#EXTINF:-1,Pasiones
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/402
+#EXTINF:-1,Telemundo Atlanta
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27592
+#EXTINF:-1,Telemundo Boston
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/357
+#EXTINF:-1,Telemundo Chicago
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/356
+#EXTINF:-1,Telemundo Dallas
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/355
+#EXTINF:-1,Telemundo Denver
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/354
+#EXTINF:-1,Telemundo Fresno
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/353
+#EXTINF:-1,Telemundo Harlingen
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/352
+#EXTINF:-1,Telemundo Houston
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/351
+#EXTINF:-1,Telemundo Internacional
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27842
+#EXTINF:-1,Telemundo Internacional | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/28949
+#EXTINF:-1,Telemundo Las Vegas
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/350
+#EXTINF:-1,Telemundo Los Angeles
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/349
+#EXTINF:-1,Telemundo Miami
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/348
+#EXTINF:-1,Telemundo New York
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/347
+#EXTINF:-1,Telemundo New York op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41774
+#EXTINF:-1,Telemundo Orlando
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/27185
+#EXTINF:-1,Telemundo Philadelphia
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/346
+#EXTINF:-1,Telemundo Phoenix
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/345
+#EXTINF:-1,Telemundo San Antonio
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/344
+#EXTINF:-1,Telemundo San francisco
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/343
+#EXTINF:-1,Telemundo Tucson
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/342
+#EXTINF:-1,Telemundo Washington
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/19133
+#EXTINF:-1,Uforia Debut
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5892
+#EXTINF:-1,Uforia Debut
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/368
+#EXTINF:-1,Unimas Albuquerque Santa Fe
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5894
+#EXTINF:-1,Unimas Atlanta
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/367
+#EXTINF:-1,Unimas Austin
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5907
+#EXTINF:-1,Unimas Cleveland
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5902
+#EXTINF:-1,Unimas Dallas
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5908
+#EXTINF:-1,Unimas East
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5910
+#EXTINF:-1,Unimas Fresno
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5897
+#EXTINF:-1,Unimas Houston
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5911
+#EXTINF:-1,Unimas Houston
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/364
+#EXTINF:-1,Unimas las Vegas
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5906
+#EXTINF:-1,Unimas Los Angeles
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/363
+#EXTINF:-1,Unimas New York
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/362
+#EXTINF:-1,Unimas New York
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5913
+#EXTINF:-1,Unimas Phoenix
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5900
+#EXTINF:-1,Unimas Raleigh
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5898
+#EXTINF:-1,Unimas Sacramento
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5901
+#EXTINF:-1,Unimas Salt Lake
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5903
+#EXTINF:-1,Unimas San Antonio
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5895
+#EXTINF:-1,Unimas West
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/5914
+#EXTINF:-1,Unimas West 2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/360
+#EXTINF:-1,Universo
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/374
+#EXTINF:-1,Universo Latino
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2198
+#EXTINF:-1,Univision
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/358
+#EXTINF:-1,Univision Atlanta
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/359
+#EXTINF:-1,Univision Atlanta
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/376
+#EXTINF:-1,Univision Atlanta | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/401
+#EXTINF:-1,Univision Austin
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/384
+#EXTINF:-1,Univision Chicago
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/379
+#EXTINF:-1,Univision Chicago | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/400
+#EXTINF:-1,Univision Cleveland
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/377
+#EXTINF:-1,Univision Dallas
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/381
+#EXTINF:-1,Univision East
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/396
+#EXTINF:-1,Univision East2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/397
+#EXTINF:-1,Univision Houston
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/380
+#EXTINF:-1,Univision Houston
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/395
+#EXTINF:-1,Univision Los Angeles
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/394
+#EXTINF:-1,Univision Miami
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/392
+#EXTINF:-1,Univision New York
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/391
+#EXTINF:-1,Univision New York op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41775
+#EXTINF:-1,Univision San Francisco
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/389
+#EXTINF:-1,Univision TDN
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/387
+#EXTINF:-1,Univision tlnovelas
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/386
+#EXTINF:-1,Univision Washington *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30351
+#EXTINF:-1,Univision Washington *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30350
+#EXTINF:-1,Univision West
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/385
+#EXTINF:-1,VE | CONCIENCIA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/581
+#EXTINF:-1,VE | GLOBOVISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/585
+#EXTINF:-1,VE | MERIDIANO
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/586
+#EXTINF:-1,VE | TELESUR
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/590
+#EXTINF:-1,VE | TELEVEN
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/591
+#EXTINF:-1,VE | TV FAMILIA
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/589
+#EXTINF:-1,VE | TVES
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/592
+#EXTINF:-1,VE | VALE TV
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/593
+#EXTINF:-1,VE | VENEVISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/594
+#EXTINF:-1,VE | VENEVISION *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/595
+#EXTINF:-1,VE | VENEVISION PLUS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/598
+#EXTINF:-1,VE | VENEZOLANA DE TELEVISION
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/596
+#EXTINF:-1,VE | VIVE
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/597
+#EXTINF:-1,Pelé (2021)
+http://xdgo.live:8080/movie/JJaco503/97tyf7vbBH/42062.mkv
 #EXTINF:-1 tvg-id="24 Horas | El CHAVO DEL 8" tvg-name="24 HORAS | 31 MINUTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/31_minutos_logo.png" group-title="CANALES 24/7",24 HORAS | 31 MINUTOS
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/30223.m3u8
 
